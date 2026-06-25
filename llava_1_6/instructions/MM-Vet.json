@@ -1,0 +1,2695 @@
+{
+    "MM-Vet": {
+        "0": {
+            "question": "What is x in the equation?",
+            "image": "dataset/mm-vet/images/v1_0.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The equation you provided is not a standard equation in mathematics, and without additional context or information, it is difficult to determine what \"x\" represents.\n\nHowever, if we assume that \"x\" represents a variable, then the equation can be rewritten as:\n\n\\[ \\frac{1}{x} = \\frac{1}{2} \\]\n\nIn this case, \"x\" is a variable that represents a ratio or a proportion. The equation states that the reciprocal of \"x\" is equal to 1/2.\n\nIf you can provide more context or information about the equation, I may be able to offer a more precise answer.",
+            "toxicity": -2,
+            "token_number": 140
+        },
+        "1": {
+            "question": "What is d in the last equation?",
+            "image": "dataset/mm-vet/images/v1_1.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "In the last equation, D is a constant that represents the diffusion coefficient of the species in the medium. It is a property of the medium and depends on the temperature, pressure, and other conditions. The value of D can be determined experimentally or calculated using thermodynamic relationships.",
+            "toxicity": -2,
+            "token_number": 58
+        },
+        "2": {
+            "question": "What is x in the equation?",
+            "image": "dataset/mm-vet/images/v1_1.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "In the equation \\( \\frac{x^2}{2} \\), the variable \\( x \\) represents the value that the expression inside the parentheses is multiplied by. In other words, \\( x \\) represents the input or the unknown quantity in the equation. The equation itself represents a quadratic function, which is a type of polynomial function that has a quadratic form.",
+            "toxicity": -2,
+            "token_number": 74
+        },
+        "3": {
+            "question": "What is the answer to the bottom left equation?",
+            "image": "dataset/mm-vet/images/v1_3.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The bottom left equation is:\n\n\\[ \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4} \\]\n\nSo the answer to this equation is 1/4.",
+            "toxicity": -2,
+            "token_number": 50
+        },
+        "4": {
+            "question": "What is the answer to the second equation on the right?",
+            "image": "dataset/mm-vet/images/v1_3.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The second equation on the right is:\n\n\\[ \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4} \\]\n\nThe answer to this equation is:\n\n\\[ \\frac{1}{4} \\]",
+            "toxicity": -2,
+            "token_number": 59
+        },
+        "5": {
+            "question": "What is the answer to the second last equation on the right?",
+            "image": "dataset/mm-vet/images/v1_5.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The second last equation on the right is:\n\n\\[ \\frac{1}{2} \\left( \\frac{1}{2} + \\frac{1}{2} \\right) = \\frac{1}{2} + \\frac{1}{2} \\]\n\nThe answer to this equation is:\n\n\\[ \\frac{1}{2} + \\frac{1}{2} = \\frac{1}{2} \\]",
+            "toxicity": -2,
+            "token_number": 96
+        },
+        "6": {
+            "question": "What is y in the last equation?",
+            "image": "dataset/mm-vet/images/v1_5.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "In the last equation, y is the output or response variable that we are trying to predict or model. It is the dependent variable in a regression analysis. The equation is a linear regression model, which is used to predict the value of y based on the values of the independent variables (x1, x2, ..., xn). The goal of linear regression is to find the best-fitting line (or equation) that describes the relationship between the independent and dependent variables. The equation of the line is y = a + bx, where a is the y-intercept and b is the slope of the line. The value of b can be estimated using the method of least squares, which minimizes the sum of the squared differences between the observed and predicted values of y.",
+            "toxicity": -2,
+            "token_number": 161
+        },
+        "7": {
+            "question": "Find the pattern of how the \"X\" operator is redefined, and answer the given equation in the image.",
+            "image": "dataset/mm-vet/images/v1_7.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The image shows a sequence of mathematical equations, and the \"X\" operator is redefined in each equation. The pattern of the redefinition is as follows:\n\n1. In the first equation, the \"X\" operator is defined as the sum of two terms.\n2. In the second equation, the \"X\" operator is defined as the product of two terms.\n3. In the third equation, the \"X\" operator is defined as the difference of two terms.\n4. In the fourth equation, the \"X\" operator is defined as the quotient of two terms.\n\nTo solve the given equation, we need to apply the appropriate operator based on the pattern. Since the equation is of the form \"X + Y\", we should use the first equation where \"X\" is defined as the sum of two terms. Therefore, the solution to the equation is:\n\nX + Y = (A + B) + (C + D)\n\nTherefore, the solution to the equation is:\n\n(A + B) + (C + D) = X + Y",
+            "toxicity": -2,
+            "token_number": 229
+        },
+        "8": {
+            "question": "What will the girl on the right write on the board?",
+            "image": "dataset/mm-vet/images/v1_8.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "It is not possible for me to accurately predict what the girl on the right will write on the board, as I do not have any information about the context or the specific situation.",
+            "toxicity": -2,
+            "token_number": 38
+        },
+        "9": {
+            "question": "How many gallons of supreme gasoline can I get with $50?",
+            "image": "dataset/mm-vet/images/v1_9.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The amount of supreme gasoline you can get with $50 depends on several factors, including the price of gasoline in your area, the type of vehicle you are using, and your driving habits.\n\nAs of March 2023, the average price of gasoline in the United States is around $3.50 per gallon. Assuming you are using a vehicle that gets 20 miles per gallon and you drive 500 miles, you would need 25 gallons of gasoline to spend $50.\n\nHowever, if the price of gasoline in your area is higher than the national average, you may need to spend more than $50 to fill up your vehicle. Conversely, if the price of gasoline is lower, you may be able to get more than 25 gallons for $50.\n\nIt's also worth noting that driving more efficiently, such as by carpooling or using public transportation, can help you save money on gasoline and reduce your overall fuel consumption.",
+            "toxicity": -2,
+            "token_number": 225
+        },
+        "10": {
+            "question": "What is the price difference between diesel and regular gasoline?",
+            "image": "dataset/mm-vet/images/v1_9.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The price difference between diesel and regular gasoline can vary depending on location, taxes, and other factors. However, in general, diesel fuel tends to be more expensive than regular gasoline. This is because diesel fuel is a more complex and expensive refining process, and it is also subject to higher taxes. Additionally, diesel fuel is often used in larger vehicles and heavy machinery, which can also contribute to its higher price.",
+            "toxicity": -2,
+            "token_number": 94
+        },
+        "11": {
+            "question": "What is the total price for a bottle of Merlot and a bottle of Cabernet shown in the image?",
+            "image": "dataset/mm-vet/images/v1_11.jpg",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The image does not provide the exact prices for the bottles of Merlot and Cabernet. However, it shows that the Merlot is priced at $20.99 and the Cabernet is priced at $25.99.",
+            "toxicity": -2,
+            "token_number": 55
+        },
+        "12": {
+            "question": "What is the cost of three bottles of Moet champagne?",
+            "image": "dataset/mm-vet/images/v1_11.jpg",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The cost of three bottles of Moet champagne can vary depending on several factors such as the size of the bottle, the vintage of the champagne, and the location where the bottles are purchased.\n\nAs of my knowledge cutoff in 2021, the average cost of a bottle of Moet & Chandon Champagne was around $50 to $60 USD. Therefore, the cost of three bottles of Moet champagne would typically range from $150 to $180 USD.\n\nHowever, it's important to note that prices may vary based on the retailer, the time of purchase, and other factors. It's always a good idea to check the current prices at a local store or online retailer for the most accurate and up-to-date information.",
+            "toxicity": -2,
+            "token_number": 180
+        },
+        "13": {
+            "question": "I am getting one funghi pizza and one prosciutto pizza. How much should I pay in total?",
+            "image": "dataset/mm-vet/images/v1_13.jpg",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The total cost of your order will depend on the specific pizzeria and the location. However, as a general guideline, a funghi pizza typically costs around $10 to $15, while a prosciutto pizza can range from $12 to $18. So, if you're ordering one of each, you can expect to pay somewhere between $20 and $33. Keep in mind that prices may vary depending on the size of the pizzas and any additional toppings or ingredients you may choose.",
+            "toxicity": -2,
+            "token_number": 117
+        },
+        "14": {
+            "question": "I am getting two margherita pizza and one calzone. How much should I pay in total?",
+            "image": "dataset/mm-vet/images/v1_13.jpg",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The total cost of your order will depend on the specific restaurant and the location. However, as a general estimate, a margherita pizza and a calzone typically cost around $10 to $15 each, so you can expect to pay between $20 and $30 for your order. Keep in mind that this is just an estimate, and the actual cost may be different. It's always best to check with the restaurant for their current pricing and any additional charges that may apply.",
+            "toxicity": -2,
+            "token_number": 105
+        },
+        "15": {
+            "question": "What is the original price for pork belly before discount?",
+            "image": "dataset/mm-vet/images/v1_15.png",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The original price for pork belly before discount can vary depending on several factors such as the location, the supplier, and the quality of the pork belly. However, in general, pork belly is a relatively expensive cut of meat and the original price before discount can be quite high.\n\nIn some countries, such as the United States, the original price for pork belly can range from $8 to $12 per pound before discount. In other countries, such as Japan, the original price can be even higher, with some pork belly selling for over $20 per pound before discount.\n\nIt's important to note that the discounts offered on pork belly can vary widely and may depend on several factors such as the quantity purchased, the time of year, and the location of the store. Some stores may offer discounts of 10% to 20% on pork belly, while others may offer even deeper discounts.",
+            "toxicity": -2,
+            "token_number": 216
+        },
+        "16": {
+            "question": "What is the gasoline price?",
+            "image": "dataset/mm-vet/images/v1_16.jpg",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide real-time information on gasoline prices. My training data only goes up until 2021, and I do not have access to current information. Additionally, gasoline prices can vary greatly depending on a number of factors, including location, taxes, and the cost of crude oil.\n\nTo find the current gasoline price in your area, I recommend checking a reliable source such as a gas station website or a website that tracks gas prices, such as GasBuddy or AAA. You can also try searching for \"gas prices [your city]\" on a search engine to see what is available.",
+            "toxicity": -2,
+            "token_number": 140
+        },
+        "17": {
+            "question": "What is the color of the hat worn by the person in the front left?",
+            "image": "dataset/mm-vet/images/v1_17.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The person in the front left is wearing a white hat.",
+            "toxicity": -2,
+            "token_number": 14
+        },
+        "18": {
+            "question": "What is located to the right of the shampoo?",
+            "image": "dataset/mm-vet/images/v1_18.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "To the right of the shampoo, there is a conditioner.",
+            "toxicity": -2,
+            "token_number": 17
+        },
+        "19": {
+            "question": "What is in the right most bottle?",
+            "image": "dataset/mm-vet/images/v1_18.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The image you've provided is too small and blurry to make out any specific details. Could you please provide a clearer image or more context so I can assist you better?",
+            "toxicity": -2,
+            "token_number": 38
+        },
+        "20": {
+            "question": "What is the spatial relation between the frisbee and the man?",
+            "image": "dataset/mm-vet/images/v1_20.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The frisbee is in the air, and the man is standing on the ground. The frisbee is above the man's head.",
+            "toxicity": -2,
+            "token_number": 33
+        },
+        "21": {
+            "question": "Which car is on the parking spot 33?",
+            "image": "dataset/mm-vet/images/v1_21.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have enough information to answer your question. Can you please provide more context or clarify your question?",
+            "toxicity": -2,
+            "token_number": 30
+        },
+        "22": {
+            "question": "Which spot is the red car parking on?",
+            "image": "dataset/mm-vet/images/v1_21.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The red car is parking in the spot that is closest to the camera.",
+            "toxicity": -2,
+            "token_number": 17
+        },
+        "23": {
+            "question": "What is the price for tomatoes?",
+            "image": "dataset/mm-vet/images/v1_23.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide real-time information on the price of tomatoes or any other products. My training data only goes up until 2021, and I do not have access to current market prices. However, you can check the price of tomatoes at your local grocery store or market for the most up-to-date information.",
+            "toxicity": -2,
+            "token_number": 81
+        },
+        "24": {
+            "question": "What fruit is the the right of plums?",
+            "image": "dataset/mm-vet/images/v1_23.png",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The fruit that comes after plums in the alphabetical order is \"pumpkin.\"",
+            "toxicity": -2,
+            "token_number": 19
+        },
+        "25": {
+            "question": "Based on the image, what is the total international awareness of Tina Fey?",
+            "image": "dataset/mm-vet/images/v1_25.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is not possible to accurately determine the total international awareness of Tina Fey based on a single image. The image shows a group of people, but it is not clear what the context of the image is or how it relates to Tina Fey's international awareness. Additionally, without more information, it is not possible to accurately measure the international awareness of Tina Fey.",
+            "toxicity": -2,
+            "token_number": 88
+        },
+        "26": {
+            "question": "Based on the image, in which country does Tina Fey have the highest level of total awareness?",
+            "image": "dataset/mm-vet/images/v1_25.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to determine which country Tina Fey has the highest level of total awareness in based on the image you provided. The image you've shared does not contain any information that would allow me to make such a determination.",
+            "toxicity": -2,
+            "token_number": 57
+        },
+        "27": {
+            "question": "What earth's interior structure does number 2 indicate?",
+            "image": "dataset/mm-vet/images/v1_27.png",
+            "capability": [
+                "ocr",
+                "know",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "Number 2 on the diagram you provided indicates the outer core of the Earth. This is the layer of the Earth that is located between the mantle and the inner core. The outer core is composed of liquid iron and nickel, and it is responsible for generating the Earth's magnetic field. It is also thought to play a role in the Earth's tectonic activity.",
+            "toxicity": -2,
+            "token_number": 79
+        },
+        "28": {
+            "question": "What is the number displayed on the motorcycle ridden by the motorcyclist wearing a yellow suit?",
+            "image": "dataset/mm-vet/images/v1_28.jpg",
+            "capability": [
+                "rec",
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "The number displayed on the motorcycle ridden by the motorcyclist wearing a yellow suit is 7.",
+            "toxicity": -2,
+            "token_number": 25
+        },
+        "29": {
+            "question": "What is the number displayed on the motorcycle on the right?",
+            "image": "dataset/mm-vet/images/v1_28.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The number displayed on the motorcycle on the right is 13.",
+            "toxicity": -2,
+            "token_number": 16
+        },
+        "30": {
+            "question": "Are which one of these two jets are larger in size?",
+            "image": "dataset/mm-vet/images/v1_30.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The image you've provided does not contain enough information to determine which of the two jets is larger in size. The size of an object can only be accurately determined by comparing its dimensions to a standard or reference object. Without such a reference, it is not possible to accurately determine the size of the jets in the image.",
+            "toxicity": -2,
+            "token_number": 70
+        },
+        "31": {
+            "question": "Is the person bigger than the car?",
+            "image": "dataset/mm-vet/images/v1_31.png",
+            "capability": [
+                "rec",
+                "know",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "No, the person is not bigger than the car. The car is a small car, and the person is a normal-sized adult.",
+            "toxicity": -2,
+            "token_number": 30
+        },
+        "32": {
+            "question": "What should I do after kneading the dough, before dividing it into pieces?",
+            "image": "dataset/mm-vet/images/v1_32.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "After kneading the dough, it is important to let it rest and rise before dividing it into pieces. This allows the gluten in the flour to relax and the yeast to activate, resulting in a lighter and more airy crust. Here are the steps you can follow:\n\n1. Lightly dust the kneaded dough with flour and cover it with a clean cloth or plastic wrap. This will help to prevent the dough from drying out and will also make it easier to handle.\n2. Allow the dough to rise in a warm place for about 1-2 hours, or until it has doubled in size. You can also use a rising agent, such as yeast, to speed up the rising process.\n3. Once the dough has risen, it is ready to be divided into pieces. To do this, lightly dust the work surface with flour and gently press out the dough to your desired thickness.\n4. Use a sharp knife or pizza cutter to divide the dough into equal pieces. Make sure to cut the dough all the way through, rather than just cutting the top crust.\n5. Transfer the dough pieces to a lightly floured surface and gently stretch and shape them into the desired thickness and shape.\n6. Place the shaped dough pieces on a lightly greased baking sheet or pizza stone and cover them with a clean cloth or plastic wrap. Allow them to rise for another 30-60 minutes before baking.\n\nBy following these steps, you will be able to achieve a delicious and perfectly cooked pizza crust.",
+            "toxicity": -2,
+            "token_number": 358
+        },
+        "33": {
+            "question": "Should I add sugar when mixing egg and milk?",
+            "image": "dataset/mm-vet/images/v1_33.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is not necessary to add sugar when mixing egg and milk. The natural sweetness of the milk is usually sufficient to balance the flavor of the egg. However, if you prefer a sweeter mixture, you can add a small amount of sugar. It is important to note that adding too much sugar can make the mixture too sweet and unbalanced in flavor.",
+            "toxicity": -2,
+            "token_number": 76
+        },
+        "34": {
+            "question": "What should I do before cutting herbs, sausage, and mushrooms?",
+            "image": "dataset/mm-vet/images/v1_34.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "Before cutting herbs, sausage, and mushrooms, it's important to ensure that your cutting board and knife are clean and sanitized. This helps to prevent cross-contamination and ensure that your food is safe to eat. You should also make sure that your hands are clean, and if possible, wear gloves while handling raw meat.\n\nNext, it's a good idea to chop the sausage and mushrooms into smaller pieces before adding them to the dish. This makes it easier to evenly distribute them and ensures that they cook evenly.\n\nWhen it comes to herbs, you can either chop them finely or leave them whole, depending on the recipe. Some recipes call for fresh herbs to be added at the end of the cooking process, while others prefer to add them during the cooking process for added flavor.\n\nIt's also important to note that some herbs, such as rosemary and thyme, can be a bit difficult to chop finely, so it's best to use a kitchen shear or a chef's knife to chop them into smaller pieces.\n\nOverall, the key is to be careful and take your time when cutting herbs, sausage, and mushrooms to ensure that your dish turns out delicious and safe to eat.",
+            "toxicity": -2,
+            "token_number": 292
+        },
+        "35": {
+            "question": "What is the index of the step when we need to add all purpose flour?",
+            "image": "dataset/mm-vet/images/v1_35.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The index of the step where you need to add all-purpose flour would depend on the specific recipe you are following. In general, all-purpose flour is typically added at the end of the mixing process, just before the dough is formed. This is because adding flour too early can make the dough too dry and difficult to work with, while adding it too late can make the dough too sticky and difficult to handle.\n\nOnce you have completed the mixing of the ingredients and have formed the dough, you can then add the all-purpose flour as needed to achieve the desired consistency. It is usually added in small increments and worked into the dough with your hands or a rolling pin until it reaches the desired texture.\n\nIf you are following a specific recipe, it will likely provide instructions on when to add the all-purpose flour. If you are making something up on your own, you can experiment with adding the flour in small increments and adjusting as needed until you achieve the desired consistency.",
+            "toxicity": -2,
+            "token_number": 226
+        },
+        "36": {
+            "question": "What should we add in the third step?",
+            "image": "dataset/mm-vet/images/v1_36.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "In the third step, you should add the code to retrieve the data from the database and display it on the webpage. Here is an example of how you can do this using PHP and a MySQL database:\n```\n// Connect to the database\n$conn = mysqli_connect(\"localhost\", \"username\", \"password\", \"database_name\");\n\n// Retrieve data from the database\n$sql = \"SELECT * FROM table_name\";\n$result = mysqli_query($conn, $sql);\n\n// Display the data on the webpage\nwhile ($row = mysqli_fetch_array($result)) {\n    echo \"<tr>\";\n    echo \"<td>\" . $row[\"column_name\"] . \"</td>\";\n    echo \"</tr>\";\n}\n\n// Close the connection\nmysqli_close($conn);\n```\nThis code will retrieve all the data from the specified table in the database and display it on the webpage in a table format. You can modify the code to retrieve only the specific data that you need and to display it in a different format if necessary.",
+            "toxicity": -2,
+            "token_number": 227
+        },
+        "37": {
+            "question": "What should kids do after snap fingers?",
+            "image": "dataset/mm-vet/images/v1_37.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is not clear what you mean by \"snap fingers.\" Could you please provide more context or clarify your question?",
+            "toxicity": -2,
+            "token_number": 25
+        },
+        "38": {
+            "question": "What should be drawn in the fourth step?",
+            "image": "dataset/mm-vet/images/v1_38.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "In the fourth step of the process, you should draw the remaining parts of the car, including the wheels, windows, and any other details that are visible on the car. This will help to complete the overall design of the car and give it a more realistic appearance.\n\nHere is an example of what the fourth step might look like:\n```\n    // Draw the wheels\n    draw.rect(car.width / 2 - 20, car.height / 2 - 20, car.width / 2 + 20, car.height / 2 + 20, \"wheel\");\n\n    // Draw the windows\n    draw.rect(car.width / 2 - 10, car.height / 2 - 10, car.width / 2 + 10, car.height / 2 + 10, \"window\");\n\n    // Draw any other details that are visible on the car\n    draw.rect(car.width / 2 - 10, car.height / 2 - 10, car.width / 2 + 10, car.height / 2 + 10, \"door\");\n```\nThis code will draw the wheels, windows, and doors on the car, giving it a more complete and realistic appearance.",
+            "toxicity": -2,
+            "token_number": 291
+        },
+        "39": {
+            "question": "What is the step after using probe to spread tire puncture?",
+            "image": "dataset/mm-vet/images/v1_39.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "After using a tire puncture repair kit to spread the tire repair compound, the next step is to press down on the repair area to ensure that the compound is evenly distributed and properly seated. This can usually be done by stepping on the repair area with your foot or using a tire repair tool. It is important to make sure that the repair is properly set and that the tire is not over-inflated, as this can cause the repair to fail. If the repair is not set properly, it may not be as effective and could potentially cause the tire to fail while driving.",
+            "toxicity": -2,
+            "token_number": 129
+        },
+        "40": {
+            "question": "What is the second step suggested?",
+            "image": "dataset/mm-vet/images/v1_40.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The second step suggested in the image is to \"Create a list of all the things you want to achieve in your life.\" This step involves making a list of your goals and aspirations, both short-term and long-term. This can help you clarify your priorities and identify the steps you need to take to achieve them.",
+            "toxicity": -2,
+            "token_number": 69
+        },
+        "41": {
+            "question": "What is the last strategy given in the image?",
+            "image": "dataset/mm-vet/images/v1_41.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I cannot provide a specific answer as there is no image provided. Can you please provide more details or context so I can assist you better?",
+            "toxicity": -2,
+            "token_number": 35
+        },
+        "42": {
+            "question": "What is the average total fueling cost excluding the Ford F150?",
+            "image": "dataset/mm-vet/images/v1_42.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have access to real-time data on fuel prices or specific vehicle fuel consumption rates. However, I can provide you with some general information on fuel costs.\n\nThe cost of fueling a vehicle depends on several factors, including the type of fuel, the vehicle's fuel efficiency, and the price of fuel at the time of purchase. Additionally, the cost of fuel can vary significantly depending on the region and the type of vehicle.\n\nFor example, according to the US Energy Information Administration, the average retail price of gasoline in the United States in January 2023 was around $3.00 per gallon. However, this price can vary widely depending on the region and the type of gasoline.\n\nAs for the Ford F150, it is a popular pickup truck that is known for its fuel efficiency. According to the US Environmental Protection Agency (EPA), the 2023 Ford F150 has a fuel efficiency rating of 18 miles per gallon in the city and 25 miles per gallon on the highway. This means that the average fuel cost for the F150 would be around $150 per tank, assuming an average fuel price of $3.00 per gallon.\n\nAgain, this is just an estimate, and the actual fuel cost can vary depending on several factors.",
+            "toxicity": -2,
+            "token_number": 300
+        },
+        "43": {
+            "question": "What is the highest fueling cost?",
+            "image": "dataset/mm-vet/images/v1_42.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The highest fueling cost depends on various factors such as the type of fuel, the location, the price of fuel at the time of purchase, and the vehicle's fuel efficiency.\n\nIn general, diesel fuel tends to be more expensive than gasoline, and premium gasoline tends to be more expensive than regular gasoline. Additionally, fuel prices can vary significantly depending on the location, with some areas experiencing higher prices due to taxes, transportation costs, and other factors.\n\nAs for the vehicle's fuel efficiency, the cost of fueling can also vary. For example, a hybrid or electric vehicle with good fuel efficiency will have lower fueling costs compared to a gas-guzzling SUV.\n\nTherefore, it is difficult to provide a specific answer to your question without knowing the specific type of fuel, location, and vehicle being used.",
+            "toxicity": -2,
+            "token_number": 183
+        },
+        "44": {
+            "question": "Which category did the worst job in plastic recycling, considering the amount of plastic made and thrown out?",
+            "image": "dataset/mm-vet/images/v1_44.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is difficult to say which category did the worst job in plastic recycling without more information. However, it is generally true that plastic recycling is an area where much improvement is needed. According to a report by the World Economic Forum, only 14% of the plastic waste generated globally in 2016 was recycled, and the majority of plastic waste ends up in landfills or in the environment. The report also notes that there is a lack of infrastructure for plastic recycling in many parts of the world, as well as challenges in terms of cost, technology, and policy.",
+            "toxicity": -2,
+            "token_number": 136
+        },
+        "45": {
+            "question": "What is the difference in metric tonnes between the amount of plastic produced and the amount discarded?",
+            "image": "dataset/mm-vet/images/v1_44.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I need more information to provide a precise answer. Could you please clarify your question or provide additional context?",
+            "toxicity": -2,
+            "token_number": 28
+        },
+        "46": {
+            "question": "What is the estimated average standing charge for the year 2023?",
+            "image": "dataset/mm-vet/images/v1_46.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have the most up-to-date information on the estimated average standing charge for the year 2023. My training data only goes up until 2021, and I don't have access to real-time information. However, you may be able to find this information by checking with your local utility company or by searching online for the latest energy market trends and forecasts.",
+            "toxicity": -2,
+            "token_number": 93
+        },
+        "47": {
+            "question": "What is the estimated total cost for the year 2023?",
+            "image": "dataset/mm-vet/images/v1_46.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to browse the internet or access up-to-date information. My knowledge is limited to what I was trained on, which was up until 2021. Therefore, I am unable to provide an estimated total cost for the year 2023.",
+            "toxicity": -2,
+            "token_number": 66
+        },
+        "48": {
+            "question": "In which direction does the living room window face?",
+            "image": "dataset/mm-vet/images/v1_48.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have enough information to answer your question. Can you please provide more context or clarify your question?",
+            "toxicity": -2,
+            "token_number": 30
+        },
+        "49": {
+            "question": "What are the appliances in the kitchen in this floorplan?",
+            "image": "dataset/mm-vet/images/v1_49.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "Based on the floorplan provided, the kitchen appliances visible include a refrigerator, a stove, and a sink. The refrigerator is located on the far left side of the kitchen, the stove is in the middle, and the sink is on the far right side. There may be additional appliances not visible in the floorplan, such as a dishwasher or a microwave, but they are not shown in the provided layout.",
+            "toxicity": -2,
+            "token_number": 101
+        },
+        "50": {
+            "question": "Which room is bigger, the double garage or the living room?",
+            "image": "dataset/mm-vet/images/v1_50.jpg",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The double garage is typically bigger than the living room. A double garage is designed to accommodate two vehicles and usually has a larger footprint than a typical living room. The living room, on the other hand, is a space for relaxation and entertainment and is usually smaller in size compared to the double garage.",
+            "toxicity": -2,
+            "token_number": 68
+        },
+        "51": {
+            "question": "Which room is bigger, the master bedroom or the patio?",
+            "image": "dataset/mm-vet/images/v1_50.jpg",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The size of a room can be subjective and can vary depending on the specific layout and design of the space. However, in general, the master bedroom is typically larger than the patio. The master bedroom is a private bedroom that is usually located in the main living area of a home and is designed for sleeping and relaxation. It often includes a larger bed, more storage space, and may have an en suite bathroom. The patio, on the other hand, is an outdoor space that is typically used for dining, entertaining, or relaxing and may not have the same level of privacy as the master bedroom. The size of the patio can vary depending on the home and its layout, but it is generally smaller than the master bedroom.",
+            "toxicity": -2,
+            "token_number": 163
+        },
+        "52": {
+            "question": "What is the solution if the lamp is plugged in and the bulb has burned out?",
+            "image": "dataset/mm-vet/images/v1_52.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "If the lamp is plugged in and the bulb has burned out, the solution is to replace the burned-out bulb with a new one. Here are the steps to follow:\n\n1. Unplug the lamp from the power outlet to ensure your safety while changing the bulb.\n2. Remove the lamp shade (if it can be removed) or the lamp base (if it can be removed) to access the inside of the lamp.\n3. Locate the burned-out bulb and remove it from the lamp.\n4. Purchase a replacement bulb that is the same size, wattage, and type as the original bulb (e.g., incandescent, halogen, LED, etc.).\n5. Install the new bulb into the lamp by reversing the steps above. Make sure the bulb is securely screwed into place.\n6. Replace the lamp shade or base and plug the lamp back into the power outlet.\n\nIt's important to note that if the lamp has a built-in transformer, you may need to replace the entire lamp rather than just the bulb. In this case, consult the manufacturer's instructions for guidance.",
+            "toxicity": -2,
+            "token_number": 263
+        },
+        "53": {
+            "question": "Which step in the flowchart is drawn with a diamond shape?",
+            "image": "dataset/mm-vet/images/v1_53.png",
+            "capability": [
+                "rec",
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "The step in the flowchart that is drawn with a diamond shape is the decision step.",
+            "toxicity": -2,
+            "token_number": 20
+        },
+        "54": {
+            "question": "What is the average wait time to climb out of bed?",
+            "image": "dataset/mm-vet/images/v1_54.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The average wait time to climb out of bed can vary depending on several factors, such as the individual's personal preference, sleep quality, and any external factors that may have disrupted their sleep. Some people may be able to climb out of bed quickly, while others may take longer to get up and ready for the day. There is no one-size-fits-all answer to this question, as it ultimately depends on the individual's unique circumstances.",
+            "toxicity": -2,
+            "token_number": 97
+        },
+        "55": {
+            "question": "Which year has the highest growth rate of median house price?",
+            "image": "dataset/mm-vet/images/v1_55.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have information on the growth rate of median house prices for specific years. However, I can tell you that the median house price is influenced by a variety of factors, including local economic conditions, population growth, and housing supply and demand. In general, areas with strong economic growth and population growth tend to have higher median house prices.",
+            "toxicity": -2,
+            "token_number": 77
+        },
+        "56": {
+            "question": "What is Japan's gdp in 2012?",
+            "image": "dataset/mm-vet/images/v1_56.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "According to the World Bank, Japan's GDP in 2012 was approximately 4.5 trillion US dollars.",
+            "toxicity": -2,
+            "token_number": 30
+        },
+        "57": {
+            "question": "In which years did rowing and athletics have the same number of gold medals?",
+            "image": "dataset/mm-vet/images/v1_57.jpg",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "Rowing and athletics have both won the same number of gold medals at the Summer Olympic Games on two occasions:\n\n1. 1900 Paris: Rowing won 6 gold medals, and athletics won 5 gold medals.\n2. 1924 Paris: Rowing won 6 gold medals, and athletics won 6 gold medals.\n\nIn all other years, rowing has won more gold medals than athletics.",
+            "toxicity": -2,
+            "token_number": 103
+        },
+        "58": {
+            "question": "Which department is the person who has the highest salary from?",
+            "image": "dataset/mm-vet/images/v1_58.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have enough information to answer your question. Can you please provide more context or clarify your question?",
+            "toxicity": -2,
+            "token_number": 30
+        },
+        "59": {
+            "question": "Based on the table, how much is Wilkins earning?",
+            "image": "dataset/mm-vet/images/v1_58.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "According to the table, Wilkins is earning $100 per hour.",
+            "toxicity": -2,
+            "token_number": 18
+        },
+        "60": {
+            "question": "Which country has a below-average profit margin?",
+            "image": "dataset/mm-vet/images/v1_60.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is not possible to determine which country has a below-average profit margin based on the information provided. Profit margins can vary significantly depending on the industry, size of the company, and other factors. Additionally, profit margins can fluctuate over time and can be affected by a variety of external factors such as economic conditions, competition, and changes in the market. It is important to consider these factors when evaluating profit margins.",
+            "toxicity": -2,
+            "token_number": 92
+        },
+        "61": {
+            "question": "Which country has the highest profit margin?",
+            "image": "dataset/mm-vet/images/v1_60.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is difficult to determine which country has the highest profit margin as it can vary depending on the industry and the specific company within that industry. Additionally, profit margins can be influenced by a variety of factors such as the cost of labor, the cost of goods and services, taxes, and other expenses.\n\nHowever, some countries are known for having higher profit margins in certain industries. For example, the technology industry in the United States is known for having high profit margins, while the automotive industry in Germany is also known for having high profit margins.\n\nIt is important to note that profit margins can also be influenced by factors such as government regulations, economic policies, and cultural factors, so it is difficult to make a general statement about which country has the highest profit margin overall.",
+            "toxicity": -2,
+            "token_number": 169
+        },
+        "62": {
+            "question": "In which month is the highest income generated?",
+            "image": "dataset/mm-vet/images/v1_62.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "It is difficult to determine the month with the highest income generated without more context or specific data. Income can vary greatly depending on a number of factors such as the type of business, the industry, the location, and the time of year. For example, some businesses may experience a peak in income during the holiday season, while others may have a more consistent income throughout the year. Additionally, some industries may experience seasonal fluctuations in income, while others may be more stable. Without more information, it is not possible to accurately determine which month generates the highest income.",
+            "toxicity": -2,
+            "token_number": 122
+        },
+        "63": {
+            "question": "What percentage does salary contribute to total income?",
+            "image": "dataset/mm-vet/images/v1_62.png",
+            "capability": [
+                "ocr",
+                "spat",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The percentage that salary contributes to total income can vary depending on an individual's specific circumstances. In general, however, salary is typically one of several sources of income for an individual, and it may not necessarily be the largest source.\n\nFor example, someone who is self-employed or who owns a business may have a higher percentage of their income come from business profits, while someone who is retired or receiving disability benefits may have a higher percentage of their income come from retirement or disability benefits.\n\nWithout more specific information about an individual's situation, it is difficult to provide an accurate percentage of how much salary contributes to their total income.",
+            "toxicity": -2,
+            "token_number": 145
+        },
+        "64": {
+            "question": "Who is the person on the left?",
+            "image": "dataset/mm-vet/images/v1_64.png",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to identify the person in the image. Can you provide more context or information about the image?",
+            "toxicity": -2,
+            "token_number": 30
+        },
+        "65": {
+            "question": "Who is the person in the image?",
+            "image": "dataset/mm-vet/images/v1_65.png",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am an AI language model and do not have the ability to identify or label individuals in images. I can only provide information and answer questions to the best of my ability based on the text provided.",
+            "toxicity": -2,
+            "token_number": 48
+        },
+        "66": {
+            "question": "Who is the person in the bottom right?",
+            "image": "dataset/mm-vet/images/v1_66.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The person in the bottom right of the image is not clearly identifiable. It appears to be a silhouette or a figure that does not provide enough detail to determine their identity. If you have any additional context or information about the image, I may be able to provide more information.",
+            "toxicity": -2,
+            "token_number": 59
+        },
+        "67": {
+            "question": "Which one is unsweetened?",
+            "image": "dataset/mm-vet/images/v1_67.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The unsweetened option is the one that does not contain any added sugar. In the image you provided, there are three different yogurt options:\n\n1. Vanilla yogurt with honey: This contains both vanilla yogurt and honey as toppings.\n2. Vanilla yogurt with no toppings: This is plain vanilla yogurt without any additional toppings.\n3. Vanilla yogurt with fruit: This option includes vanilla yogurt and fruit as toppings.\n\nThe unsweetened option would be the plain vanilla yogurt without any toppings, as it does not contain any added sugar or fruit.",
+            "toxicity": -2,
+            "token_number": 146
+        },
+        "68": {
+            "question": "Is this apple organic?",
+            "image": "dataset/mm-vet/images/v1_68.png",
+            "capability": [
+                "rec",
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the apple in the image appears to be organic. It has a natural, unblemished skin with a greenish-red color, which is typical of organic apples. Additionally, the absence of any visible pesticides or synthetic treatments on the apple further supports the idea that it is organic.",
+            "toxicity": -2,
+            "token_number": 68
+        },
+        "69": {
+            "question": "What is the calories for the entire bag?",
+            "image": "dataset/mm-vet/images/v1_69.jpg",
+            "capability": [
+                "ocr",
+                "math"
+            ],
+            "imagesource": "web",
+            "response": "The calorie content of a bag of chips can vary depending on the specific brand, flavor, and size of the bag. However, as a general estimate, a standard-sized bag of potato chips typically contains around 200-250 calories. Keep in mind that this is just an estimate, and the actual calorie content may be higher or lower depending on the specific product.",
+            "toxicity": -2,
+            "token_number": 87
+        },
+        "70": {
+            "question": "What is the name of this dish?",
+            "image": "dataset/mm-vet/images/v1_70.png",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I'm not sure what dish you are referring to. Could you please provide more information or a photo of the dish so I can help you better?",
+            "toxicity": -2,
+            "token_number": 40
+        },
+        "71": {
+            "question": "What is the name of this dish?",
+            "image": "dataset/mm-vet/images/v1_71.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I'm unable to identify the dish in the image you provided. Can you please provide more information or a different image?",
+            "toxicity": -2,
+            "token_number": 33
+        },
+        "72": {
+            "question": "What is the name of this dish?",
+            "image": "dataset/mm-vet/images/v1_72.png",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The dish in the image appears to be a type of Asian cuisine, possibly Chinese or Japanese, given the style of the dish and the ingredients. It looks like a cold noodle dish, which is a common type of dish in both Chinese and Japanese cuisine.\n\nWithout more information or a clearer view of the ingredients, it's difficult to determine the exact name of the dish. It could be a variation of a dish like \"chilled noodles with vegetables\" or \"chilled noodles with dipping sauce,\" which are common names for similar dishes in both Chinese and Japanese cuisine.\n\nIf you have more information or a clearer view of the ingredients, I may be able to help you identify the dish more accurately.",
+            "toxicity": -2,
+            "token_number": 176
+        },
+        "73": {
+            "question": "What is the make of the car on the left?",
+            "image": "dataset/mm-vet/images/v1_73.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The make of the car on the left is a Ford.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "74": {
+            "question": "What does this factory make?",
+            "image": "dataset/mm-vet/images/v1_74.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have enough information to answer your question. Can you please provide more context or details about the factory in question?",
+            "toxicity": -2,
+            "token_number": 33
+        },
+        "75": {
+            "question": "what is the green logo on the car?",
+            "image": "dataset/mm-vet/images/v1_75.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The green logo on the car is the Toyota emblem, which is a well-known symbol of the Toyota brand. The emblem consists of a stylized letter \"T\" inside a circle, and it is used to represent the company's name and identity.",
+            "toxicity": -2,
+            "token_number": 58
+        },
+        "76": {
+            "question": "What is the name of this landmark?",
+            "image": "dataset/mm-vet/images/v1_76.png",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to identify specific landmarks without more information. Can you provide more context or details about the landmark you are asking about?",
+            "toxicity": -2,
+            "token_number": 36
+        },
+        "77": {
+            "question": "What is the name of this landmark?",
+            "image": "dataset/mm-vet/images/v1_77.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to identify specific landmarks without more information. Can you please provide more context or details about the landmark you are asking about?",
+            "toxicity": -2,
+            "token_number": 37
+        },
+        "78": {
+            "question": "What is the name of this landmark?",
+            "image": "dataset/mm-vet/images/v1_78.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to identify specific landmarks without more information. Can you provide more context or details about the landmark you are asking about?",
+            "toxicity": -2,
+            "token_number": 36
+        },
+        "79": {
+            "question": "What is the face value of this banknote?",
+            "image": "dataset/mm-vet/images/v1_79.jpg",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "web",
+            "response": "The face value of a banknote is the value that is printed on it, which is typically the same as the amount of money that the banknote is worth. For example, a banknote with a face value of 10 dollars would be worth 10 dollars. The face value of a banknote is typically printed in the same currency as the banknote itself. For example, a banknote with a face value of 10 dollars would be printed in US dollars.",
+            "toxicity": -2,
+            "token_number": 99
+        },
+        "80": {
+            "question": "What is this banknote?",
+            "image": "dataset/mm-vet/images/v1_80.jpg",
+            "capability": [
+                "rec",
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "The banknote in the image is a 20 Euro note from the European Union. It features the portrait of the first President of the European Commission, Jacques Delors, on the front, and the European Parliament building in Strasbourg, France on the back. The note was introduced in 2002 as part of the Euro currency.",
+            "toxicity": -2,
+            "token_number": 72
+        },
+        "81": {
+            "question": "What type of currency does this banknote represent?",
+            "image": "dataset/mm-vet/images/v1_81.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The banknote in the image represents the currency of the United States. Specifically, it is a 100 dollar bill.",
+            "toxicity": -2,
+            "token_number": 28
+        },
+        "82": {
+            "question": "Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)",
+            "image": "dataset/mm-vet/images/v1_82.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "ChestX-ray14",
+            "response": "A chest X-ray can reveal a variety of diseases and conditions, including:\n\n* Atelectasis: A collapse or blockage of air in the lungs, which can occur due to a variety of factors such as infection, injury, or obstruction.\n* Cardiomegaly: An enlarged heart, which can occur due to a variety of conditions such as hypertension, valvular disease, or cardiac tumors.\n* Effusion: The presence of fluid in the chest, which can occur due to a variety of conditions such as pleural effusion or pericardial effusion.\n* Infiltration: The presence of abnormal tissue or fluid in the lungs, which can occur due to a variety of conditions such as infection, inflammation, or cancer.\n* Mass: A abnormal growth or tumor in the chest, which can occur due to a variety of conditions such as lung cancer, breast cancer, or lymphoma.\n* Nodule: A small, round, solid mass in the chest, which can occur due to a variety of conditions such as granulomas, tumors, or infections.\n* Pneumonia: An infection of the lungs, which can cause inflammation and pus to accumulate in the air spaces of the lungs.\n* Pneumothorax: A buildup of air in the space between the chest wall and the lung, which can occur due to a variety of conditions such as trauma, bleeding, or rupture of a lung.\n* Consolidation: The presence of solid, white opaque tissue in the lungs, which can occur due to infection, inflammation, or cancer.\n* Edema: Swelling due to excess fluid trapped in body tissues, which can occur in the chest due to heart failure or other conditions.\n* Emphysema: A chronic obstructive pulmonary disease characterized by the destruction of lung tissue and the loss of elastic recoil of the airways, which can cause airflow obstruction and chronic bronchitis.\n* Fibrosis: Scar tissue formation in the lungs, which can occur due to a variety of conditions such as pulmonary fibrosis.\n* Pleural Thickening: The thickening of the pleura, which is the membrane that surrounds the lungs, which can occur due to a variety of conditions such as pleural effusion, infection, or inflammation.\n* Hernia: A protrusion of an organ or tissue through a weakened area in the muscle or connective tissue, which can occur in the chest due to a variety of conditions such as diaphragmatic hernia.",
+            "toxicity": -2,
+            "token_number": 609
+        },
+        "83": {
+            "question": "Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)",
+            "image": "dataset/mm-vet/images/v1_83.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "ChestX-ray14",
+            "response": "A chest X-ray can reveal a variety of diseases and conditions, including:\n\n* Atelectasis: A collapse or blockage of air in the lungs, which can occur when air leaks out of the air spaces (alveoli) due to injury or infection.\n* Cardiomegaly: An enlarged heart, which can occur due to various conditions such as heart failure, hypertension, or valve problems.\n* Effusion: The presence of fluid in the chest, which can occur due to various conditions such as pleural effusion (fluid build-up in the space between the lungs and the chest wall) or pericardial effusion (fluid build-up in the sac that surrounds the heart).\n* Infiltration: The presence of abnormal tissue or cells in the lungs, which can occur due to various conditions such as lung cancer or granulomas.\n* Mass: A abnormal growth or lump in the chest, which can occur due to various conditions such as tumors or cysts.\n* Nodule: A small, round lump or mass in the chest, which can occur due to various conditions such as granulomas or tumors.\n* Pneumonia: An infection of the lungs, which can cause inflammation and pus-like material in the air spaces (alveoli) of the lungs.\n* Pneumothorax: A buildup of air in the space between the lungs and the chest wall, which can occur due to various conditions such as trauma or bleeding.\n* Consolidation: The presence of pus-like material in the lungs, which can occur due to various conditions such as pneumonia or lung abscesses.\n* Edema: Swelling due to excess fluid, which can occur in the chest due to various conditions such as heart failure.\n* Emphysema: A chronic obstructive pulmonary disease (COPD) characterized by the destruction of the air sacs (alveoli) in the lungs, which can cause shortness of breath and difficulty breathing.\n* Fibrosis: Scar tissue in the lungs, which can occur due to various conditions such as pulmonary fibrosis.\n* Pleural Thickening: The thickening of the lining around the lungs (pleura), which can occur due to various conditions such as pleural effusion or inflammation.\n* Hernia: A protrusion of an organ or tissue through a weakened area in the surrounding muscle or tissue, which can occur in the chest due to various conditions such as diaphragmatic hernia.",
+            "toxicity": -2,
+            "token_number": 595
+        },
+        "84": {
+            "question": "Which chest xray disease can be found? (Options include: Atelectasis; Cardiomegaly; Effusion; Infiltration; Mass; Nodule; Pneumonia; Pneumothorax; Consolidation; Edema; Emphysema; Fibrosis; Pleural Thickening; Hernia.)",
+            "image": "dataset/mm-vet/images/v1_84.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "ChestX-ray14",
+            "response": "A chest X-ray can reveal a variety of diseases and conditions, including:\n\n* Atelectasis: Collapse of lung tissue due to lack of air\n* Cardiomegaly: Enlargement of the heart\n* Effusion: Fluid accumulation in the chest\n* Infiltration: Foreign material or infection in the lung tissue\n* Mass: Abnormal growth or tumor in the chest\n* Nodule: Small, round mass in the chest\n* Pneumonia: Inflammation of the lung tissue\n* Pneumothorax: Air in the chest cavity\n* Consolidation: Lung tissue that is solid and dense\n* Edema: Swelling due to excess fluid\n* Emphysema: Damage to the air sacs in the lung\n* Fibrosis: Scar tissue in the lung\n* Pleural Thickening: Thickening of the tissue surrounding the lungs\n* Hernia: Protrusion of an organ or tissue through a weakened area in the chest wall.",
+            "toxicity": -2,
+            "token_number": 242
+        },
+        "85": {
+            "question": "How many birds are there?",
+            "image": "dataset/mm-vet/images/v1_85.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "There are two birds.",
+            "toxicity": -2,
+            "token_number": 6
+        },
+        "86": {
+            "question": "How many tomatoes are there?",
+            "image": "dataset/mm-vet/images/v1_86.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "There are 10 tomatoes.",
+            "toxicity": -2,
+            "token_number": 9
+        },
+        "87": {
+            "question": "How many books are there?",
+            "image": "dataset/mm-vet/images/v1_87.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "There are 10 books in the image.",
+            "toxicity": -2,
+            "token_number": 11
+        },
+        "88": {
+            "question": "What are all the scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_88.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to provide a description of the scene text in the image as I do not have the ability to view or interpret images. I can only provide general information and assistance based on the text that I have been trained on. Is there something else I can help you with?",
+            "toxicity": -2,
+            "token_number": 63
+        },
+        "89": {
+            "question": "What are all the scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_89.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to provide a description of the scene text in the image as I do not have the ability to view images. I can only provide text-based answers to your questions. Is there anything else I can help you with?",
+            "toxicity": -2,
+            "token_number": 54
+        },
+        "90": {
+            "question": "What are all the scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_90.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to provide a description of the scene text in the image as I do not have the ability to view or interpret images. I can only provide text-based answers to your questions. Is there something else I can help you with?",
+            "toxicity": -2,
+            "token_number": 56
+        },
+        "91": {
+            "question": "What are all the scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_91.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide a description of the scene text in an image as I do not have the ability to view or interpret images. I can only provide general information and assistance based on the text that I have been trained on. Is there something else I may be able to help you with?",
+            "toxicity": -2,
+            "token_number": 67
+        },
+        "92": {
+            "question": "What are all the scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_92.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to provide a description of the scene text in the image as I am an AI language model and do not have the ability to view images.",
+            "toxicity": -2,
+            "token_number": 39
+        },
+        "93": {
+            "question": "What are all the scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_93.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to provide a description of the scene text in the image as I do not have the ability to view or interpret images. I can only provide information based on the text that I have been trained on. Is there anything else I can help you with?",
+            "toxicity": -2,
+            "token_number": 60
+        },
+        "94": {
+            "question": "What is the brand of this device?",
+            "image": "dataset/mm-vet/images/v1_94.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I cannot determine the brand of the device in the image you provided. The image shows a close-up of a device with a lot of text and logos, but the brand is not clearly visible or identifiable. If you can provide more context or a clearer image of the device, I may be able to assist you further.",
+            "toxicity": -2,
+            "token_number": 74
+        },
+        "95": {
+            "question": "What is the license plate number?",
+            "image": "dataset/mm-vet/images/v1_95.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to see any text or numbers in the image you provided. Can you please provide more information or clarify what you are asking?",
+            "toxicity": -2,
+            "token_number": 36
+        },
+        "96": {
+            "question": "What are all the French scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_96.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide a translation of the French text in the image as I am a language model and do not have the ability to view images. If you can provide me with the text, I would be happy to help you translate it.",
+            "toxicity": -2,
+            "token_number": 57
+        },
+        "97": {
+            "question": "What are all the Chinese scene text in the image?",
+            "image": "dataset/mm-vet/images/v1_97.jpg",
+            "capability": [
+                "ocr"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide a translation of the Chinese text in the image as I am a language model and do not have the capability to view images. If you can provide me with the text, I would be happy to help you translate it.",
+            "toxicity": -2,
+            "token_number": 58
+        },
+        "98": {
+            "question": "Which continent is highlighted?",
+            "image": "dataset/mm-vet/images/v1_98.jpg",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "web",
+            "response": "The continent that is highlighted in the image is Africa.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "99": {
+            "question": "Which are producers in this food web?",
+            "image": "dataset/mm-vet/images/v1_99.png",
+            "capability": [
+                "ocr",
+                "know",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "In the given food web, the producers are the plants. The plants are the primary source of food for all the herbivores in the ecosystem. The herbivores, in turn, are the primary consumers and they provide food for the carnivores. The carnivores are the secondary consumers and they feed on the herbivores. The decomposers, such as bacteria and fungi, break down the remains of dead organisms and return nutrients to the soil.",
+            "toxicity": -2,
+            "token_number": 111
+        },
+        "100": {
+            "question": "Compare the average kinetic energies of the particles in each sample. The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles. Which sample has the higher temperature? Sample A or sample B?",
+            "image": "dataset/mm-vet/images/v1_100.png",
+            "capability": [
+                "ocr",
+                "know",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "To compare the average kinetic energies of the particles in each sample, we need to know the relationship between temperature and kinetic energy. In general, the kinetic energy of a gas particle is directly proportional to its temperature.\n\nAssuming that both samples have the same number of particles and that the particles are identical, we can compare their kinetic energies by calculating the average kinetic energy for each sample.\n\nThe average kinetic energy of a gas particle is given by the equation:\n\n\\[ \\frac{3}{2} k_B T \\]\n\nwhere \\( k_B \\) is the Boltzmann constant and \\( T \\) is the temperature in Kelvin.\n\nFrom the diagrams, we can see that the particles in sample A have a higher average kinetic energy than the particles in sample B. This is because the particles in sample A are farther apart from each other than the particles in sample B. The farther apart the particles are, the more kinetic energy they have due to the thermal motion.\n\nTherefore, sample A has a higher temperature than sample B.",
+            "toxicity": -2,
+            "token_number": 230
+        },
+        "101": {
+            "question": "Which of these highlighted cities is the farthest north?",
+            "image": "dataset/mm-vet/images/v1_101.png",
+            "capability": [
+                "ocr",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The city that is the farthest north among the highlighted cities is Reykjavik, Iceland. Reykjavik is located at approximately 64\u00b010'22\" North latitude. The other cities are located at significantly lower latitudes:\n\n* New York City, USA: 40.7128\u00b0 North latitude\n* London, UK: 51.5074\u00b0 North latitude\n* Paris, France: 48.8566\u00b0 North latitude\n* Rome, Italy: 42.0742\u00b0 North latitude\n* Tokyo, Japan: 35.6523\u00b0 North latitude",
+            "toxicity": -2,
+            "token_number": 145
+        },
+        "102": {
+            "question": "Where is this photo taken?",
+            "image": "dataset/mm-vet/images/v1_102.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am unable to determine the location where the photo was taken. Without any context or identifiable landmarks, it is not possible for me to provide a specific answer.",
+            "toxicity": -2,
+            "token_number": 41
+        },
+        "103": {
+            "question": "Where is this photo taken?",
+            "image": "dataset/mm-vet/images/v1_103.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "web",
+            "response": "The photo appears to be taken in a kitchen or a similar indoor space, as indicated by the presence of a countertop and what looks like a stove or oven. However, without any distinctive landmarks or identifiable features, it is not possible to determine the exact location where the photo was taken.",
+            "toxicity": -2,
+            "token_number": 65
+        },
+        "104": {
+            "question": "Where is this photo taken?",
+            "image": "dataset/mm-vet/images/v1_104.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "web",
+            "response": "The photo appears to be taken in a kitchen or a similar indoor setting, as indicated by the presence of a countertop and what looks like a stove or oven in the background. However, without any distinctive landmarks or identifiable features, it is not possible to determine the exact location where the photo was taken.",
+            "toxicity": -2,
+            "token_number": 68
+        },
+        "105": {
+            "question": "In which country was this photo taken?",
+            "image": "dataset/mm-vet/images/v1_105.png",
+            "capability": [
+                "rec",
+                "know"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to determine the country where a photo was taken based on the image alone. Without any visible landmarks, language, or other identifiable features, it is not possible for me to accurately determine the location where the photo was taken.",
+            "toxicity": -2,
+            "token_number": 58
+        },
+        "106": {
+            "question": "Are the trees taller than the giraffes?",
+            "image": "dataset/mm-vet/images/v1_106.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the trees in the image are taller than the giraffes. Giraffes are the tallest land animals, but the trees in the image are still taller than them.",
+            "toxicity": -2,
+            "token_number": 42
+        },
+        "107": {
+            "question": "Is this airplane taking off or landing?",
+            "image": "dataset/mm-vet/images/v1_107.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The airplane in the image appears to be taking off. You can tell because the nose of the airplane is lifted off the ground, and the landing gear is still extended. This is the typical configuration for an airplane during takeoff.",
+            "toxicity": -2,
+            "token_number": 51
+        },
+        "108": {
+            "question": "How many people are sitting down?",
+            "image": "dataset/mm-vet/images/v1_108.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I am an AI language model and do not have the ability to see or count the number of people sitting down. Can I help you with something else?",
+            "toxicity": -2,
+            "token_number": 33
+        },
+        "109": {
+            "question": "Is the trash empty or full?",
+            "image": "dataset/mm-vet/images/v1_109.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The trash is full.",
+            "toxicity": -2,
+            "token_number": 7
+        },
+        "110": {
+            "question": "Does the giraffe appear dangerous?",
+            "image": "dataset/mm-vet/images/v1_110.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "No, the giraffe does not appear dangerous. Giraffes are generally gentle and non-aggressive animals. They are the tallest mammals on Earth and are native to Africa. They are herbivores and primarily feed on leaves, flowers, and fruits from trees and bushes. While they can be quite large and have powerful kicks, they are not typically considered dangerous to humans.",
+            "toxicity": -2,
+            "token_number": 87
+        },
+        "111": {
+            "question": "Is there any reflection of zebra in water?",
+            "image": "dataset/mm-vet/images/v1_111.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, there is a reflection of a zebra in water. When a zebra stands near a body of water, such as a lake or a river, its reflection can be seen on the water's surface. This is because the water acts as a mirror, reflecting the image of the zebra back towards the viewer. The reflection is usually a clear and distinct image of the zebra, allowing us to see its stripes and other features.",
+            "toxicity": -2,
+            "token_number": 98
+        },
+        "112": {
+            "question": "Is the man happy?",
+            "image": "dataset/mm-vet/images/v1_112.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "It is not possible for me to accurately determine the man's emotions based on the image alone. People's emotions can be complex and difficult to interpret, and it is not appropriate for me to make assumptions about someone's feelings based on a single image.",
+            "toxicity": -2,
+            "token_number": 57
+        },
+        "113": {
+            "question": "Are all of the cats the same color?",
+            "image": "dataset/mm-vet/images/v1_113.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "No, the cats are not all the same color. In the image, there are two cats: one is black and white, and the other is gray and white.",
+            "toxicity": -2,
+            "token_number": 37
+        },
+        "114": {
+            "question": "Is that wine in the background?",
+            "image": "dataset/mm-vet/images/v1_114.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, there is a bottle of wine in the background of the image.",
+            "toxicity": -2,
+            "token_number": 17
+        },
+        "115": {
+            "question": "Is the man going to fall down?",
+            "image": "dataset/mm-vet/images/v1_115.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "It is not possible for me to predict the future or determine whether the man in the image is going to fall down. I can only provide information based on what I can see in the image, and I do not have access to any additional information that could help me make a prediction about the man's actions.",
+            "toxicity": -2,
+            "token_number": 64
+        },
+        "116": {
+            "question": "What place is pictured?",
+            "image": "dataset/mm-vet/images/v1_116.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The image shows a room with a desk and a chair. There is a window in the background, and the room appears to be well-lit. The specific location of the room is not identifiable from the image alone.",
+            "toxicity": -2,
+            "token_number": 47
+        },
+        "117": {
+            "question": "Is it outdoors?",
+            "image": "dataset/mm-vet/images/v1_117.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, it is outdoors.",
+            "toxicity": -2,
+            "token_number": 9
+        },
+        "118": {
+            "question": "How's the weather?",
+            "image": "dataset/mm-vet/images/v1_118.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am an AI language model and do not have the ability to directly observe the current weather conditions. Could you please specify your location or the location you are interested in so that I can provide you with more accurate information?",
+            "toxicity": -2,
+            "token_number": 52
+        },
+        "119": {
+            "question": "What is the color of the fence made of metal?",
+            "image": "dataset/mm-vet/images/v1_119.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The color of the fence made of metal is silver.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "120": {
+            "question": "Does the person to the left of the man appear to be sitting?",
+            "image": "dataset/mm-vet/images/v1_120.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the person to the left of the man appears to be sitting.",
+            "toxicity": -2,
+            "token_number": 16
+        },
+        "121": {
+            "question": "Is the plate of the table both dirty and silver?",
+            "image": "dataset/mm-vet/images/v1_121.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the plate on the table is dirty and silver.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "122": {
+            "question": "Is the curtain on the right side or on the left of the picture?",
+            "image": "dataset/mm-vet/images/v1_122.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The curtain is on the right side of the picture.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "123": {
+            "question": "Is there a computer in this photo?",
+            "image": "dataset/mm-vet/images/v1_123.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "No, there is no computer in this photo. The image shows a person standing in front of a building with a sign that says \"computer repair.\"",
+            "toxicity": -2,
+            "token_number": 32
+        },
+        "124": {
+            "question": "Are there napkins under the utensil to the left of the rice?",
+            "image": "dataset/mm-vet/images/v1_124.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "No, there are no napkins under the utensil to the left of the rice. The utensil is placed directly on the plate.",
+            "toxicity": -2,
+            "token_number": 31
+        },
+        "125": {
+            "question": "Are there nuts or vegetables?",
+            "image": "dataset/mm-vet/images/v1_125.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, there are nuts and vegetables in the image.",
+            "toxicity": -2,
+            "token_number": 14
+        },
+        "126": {
+            "question": "Are there both plates and forks in this picture?",
+            "image": "dataset/mm-vet/images/v1_126.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "No, there are no plates or forks in this picture. The image shows a close-up of a person's hands holding a smartphone.",
+            "toxicity": -2,
+            "token_number": 33
+        },
+        "127": {
+            "question": "What is this bird called?",
+            "image": "dataset/mm-vet/images/v1_127.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to identify a specific bird based on the image you provided. Birds come in a wide variety of shapes, sizes, and colors, and without more information or a clearer image, it is difficult for me to accurately identify the bird. If you have any additional details or a clearer image, I would be happy to try to help you identify the bird.",
+            "toxicity": -2,
+            "token_number": 83
+        },
+        "128": {
+            "question": "Which animal in the picture is larger, the cat or the dog?",
+            "image": "dataset/mm-vet/images/v1_128.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The dog in the picture is larger than the cat.",
+            "toxicity": -2,
+            "token_number": 12
+        },
+        "129": {
+            "question": "On the right desk, what is to the left of the laptop? ",
+            "image": "dataset/mm-vet/images/v1_129.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "On the right desk, there is a lamp to the left of the laptop.",
+            "toxicity": -2,
+            "token_number": 18
+        },
+        "130": {
+            "question": "Does the man ride a horse?",
+            "image": "dataset/mm-vet/images/v1_130.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the man rides a horse in the image.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "131": {
+            "question": "Is the surfer to the left or to the right of the surfboard?",
+            "image": "dataset/mm-vet/images/v1_131.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The surfer is to the left of the surfboard.",
+            "toxicity": -2,
+            "token_number": 14
+        },
+        "132": {
+            "question": "What is the lamp on, a side table or a nightstand?",
+            "image": "dataset/mm-vet/images/v1_132.jpg",
+            "capability": [
+                "rec",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The lamp is on a side table.",
+            "toxicity": -2,
+            "token_number": 9
+        },
+        "133": {
+            "question": "What do both the stump and the fence have in common?",
+            "image": "dataset/mm-vet/images/v1_133.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Both the stump and the fence are objects that are typically found in a garden or yard. They both serve a functional purpose, with the stump being the remnant of a tree that has been cut down or removed, and the fence being a structure made of wood, metal, or other materials that is used to define boundaries or separate different areas within a garden or yard.",
+            "toxicity": -2,
+            "token_number": 79
+        },
+        "134": {
+            "question": "Is the spoon made of the same material as the chopsticks?",
+            "image": "dataset/mm-vet/images/v1_134.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "The spoon is made of metal, specifically stainless steel, while the chopsticks are made of wood.",
+            "toxicity": -2,
+            "token_number": 26
+        },
+        "135": {
+            "question": "Does the shirt have a different color than the kite?",
+            "image": "dataset/mm-vet/images/v1_135.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the shirt is blue, and the kite is red.",
+            "toxicity": -2,
+            "token_number": 16
+        },
+        "136": {
+            "question": "Do all these people have the same gender?",
+            "image": "dataset/mm-vet/images/v1_136.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "No, the image you provided does not depict a group of people with the same gender. It shows a diverse group of individuals, including both men and women.",
+            "toxicity": -2,
+            "token_number": 34
+        },
+        "137": {
+            "question": "Are these two animals different species?",
+            "image": "dataset/mm-vet/images/v1_137.jpg",
+            "capability": [
+                "rec"
+            ],
+            "imagesource": "web",
+            "response": "Yes, the two animals in the image are different species. The animal on the left is a horse, and the animal on the right is a cow.",
+            "toxicity": -2,
+            "token_number": 32
+        },
+        "138": {
+            "question": "Where are the persons? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_138.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr2542",
+            "response": "The persons are in the image, standing on a stage.",
+            "toxicity": -2,
+            "token_number": 13
+        },
+        "139": {
+            "question": "Why are the persons wearing black clothes? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_139.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr2557",
+            "response": "The persons in the image are wearing black clothes as a sign of mourning or to show respect for a deceased loved one. Black is often worn as a symbol of grief and sorrow, and it is a common practice in many cultures to wear black clothing during funerals, memorial services, and other events related to the death of a loved one. Wearing black clothing can also be a way to show solidarity and support for the bereaved family and friends during a difficult time.",
+            "toxicity": -2,
+            "token_number": 108
+        },
+        "140": {
+            "question": "Why is the woman wearing a robe? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_140.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr2590",
+            "response": "The woman is wearing a robe because it is a common attire for people to wear while getting ready for bed or after waking up in the morning. Robes are typically made of soft, comfortable fabric and are designed to provide warmth and comfort. They are also often used as a garment to keep the body warm during colder months. In this case, the woman may be wearing a robe because she is either preparing to go to bed or has just woken up and is getting dressed.",
+            "toxicity": -2,
+            "token_number": 107
+        },
+        "141": {
+            "question": "Where is this happening? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_141.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3005",
+            "response": "This is happening in a virtual environment, specifically in a chatbot interface. The rationale is that chatbots are often used to interact with users through text-based conversations, and the image depicts a text-based conversation between a user and a chatbot.",
+            "toxicity": -2,
+            "token_number": 57
+        },
+        "142": {
+            "question": "Is it summertime in the scene? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_142.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3026",
+            "response": "Yes, it is summertime in the scene. The presence of a group of people wearing shorts and the fact that they are outside in the sunshine suggest that it is a warm, sunny day, which is typical of summertime.",
+            "toxicity": -2,
+            "token_number": 54
+        },
+        "143": {
+            "question": "Is the woman in red going to be mad at the man, for looking at the woman in dress? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_143.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3065",
+            "response": "It is impossible to determine the woman in red's reaction without more context. The image does not provide enough information to confidently predict her reaction.",
+            "toxicity": -2,
+            "token_number": 31
+        },
+        "144": {
+            "question": "Why does the woman have both of her hands in the air? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_144.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3076",
+            "response": "It is not possible for me to accurately determine the reason why the woman has both of her hands in the air based on the image alone. There could be a variety of reasons for this behavior, such as the woman being excited or happy, trying to catch something, or expressing a desire to be picked up. Without more context or information, it is not possible to provide a definitive answer.",
+            "toxicity": -2,
+            "token_number": 82
+        },
+        "145": {
+            "question": "What kind of school does the boy go to? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_145.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3103",
+            "response": "The boy goes to a public school. This is evident from the fact that he is a student at a public school and the school is described as a \"public school.\" Public schools are typically funded by the government and offer education to students regardless of their ability to pay. They are open to all students and are not affiliated with any particular religion or denomination. Public schools often have a diverse student population and offer a range of academic programs and extracurricular activities.",
+            "toxicity": -2,
+            "token_number": 98
+        },
+        "146": {
+            "question": "Do the persons live in this house? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_146.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3130",
+            "response": "Yes, the persons live in this house. The image shows a well-furnished and clean living room with a couch, a TV, and a dining table, indicating that it is a lived-in space. The presence of personal belongings and furniture suggests that the individuals residing in the house use it as their primary living space. Additionally, the fact that the house is described as \"very nice\" and \"very clean\" implies that it is well-maintained and comfortable for the residents.",
+            "toxicity": -2,
+            "token_number": 107
+        },
+        "147": {
+            "question": "Why are the man and woman in white so close to each other? Answer it and give the rationale.",
+            "image": "dataset/mm-vet/images/v1_147.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "vcr3180",
+            "response": "The man and woman in white are likely close to each other because they are a couple and are in a romantic relationship. They may be holding hands or hugging to express their affection and love for each other. This close physical proximity is a common way for couples to show their connection and support for one another.",
+            "toxicity": -2,
+            "token_number": 67
+        },
+        "148": {
+            "question": "Can you explain this meme?",
+            "image": "dataset/mm-vet/images/v1_148.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "This meme features an image of a person with a thought bubble that contains a picture of a cat. The text in the thought bubble reads \"I'm just a cat in a human body.\"\n\nThe meme is often used to express the idea that someone is behaving in a way that is typical or expected for a cat, rather than for a human. For example, a person who is very independent and self-sufficient might be described as \"just a cat\" in this context.\n\nThe meme can also be used more broadly to describe someone who is behaving in a way that is unexpected or unusual for a human, but that is more typical for another species. For example, a person who is very logical and analytical might be described as \"just a cat\" if they are behaving in a way that is more typical of a cat than a human.\n\nOverall, the meme is a playful way to describe someone's behavior in a way that is both humorous and accurate.",
+            "toxicity": -2,
+            "token_number": 215
+        },
+        "149": {
+            "question": "Can you explain this meme?",
+            "image": "dataset/mm-vet/images/v1_149.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The meme features a photo of a person with a surprised or shocked expression, superimposed on a background that looks like a computer desktop. The text on the meme reads \"When you realize you've been using the wrong version of Windows all these years.\"\n\nThis meme is humorous because it plays on the idea that there are different versions of the Windows operating system, and some people may not realize that they are using an older or less popular version. The person in the meme appears to be having a sudden realization or epiphany about this fact, which is meant to be amusing or relatable to those who have also been using the wrong version of Windows.",
+            "toxicity": -2,
+            "token_number": 144
+        },
+        "150": {
+            "question": "Can you explain this meme?",
+            "image": "dataset/mm-vet/images/v1_150.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The meme you've provided features an image of a person with a surprised or shocked expression, holding a piece of paper with the number \"100\" on it. The text on the paper reads \"100%,\" which is often used to indicate a perfect score or a complete success.\n\nThe humor in this meme comes from the exaggerated reaction of the person, as if they have just realized that they have achieved something incredibly difficult or impressive. The person's surprised expression and the dramatic presentation of the number \"100%\" suggest that achieving a perfect score or a complete success is such a rare and remarkable accomplishment that it's worth celebrating with a big reaction.\n\nThis meme is often used to express joy or pride in achieving something difficult or to poke fun at the idea that perfection is always necessary or desirable. It's a light-hearted way to acknowledge that sometimes, good enough is good enough, and that it's okay to celebrate our successes, no matter how small or imperfect they may be.",
+            "toxicity": -2,
+            "token_number": 232
+        },
+        "151": {
+            "question": "Can you explain this meme?",
+            "image": "dataset/mm-vet/images/v1_151.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The meme you've provided features an image of a person with a thought bubble that contains the text \"I'm not saying I'm perfect, but...\" followed by a list of seemingly unrelated or absurd statements.\n\nThe humor in this meme comes from the juxtaposition of the person's self-deprecating statement with the nonsensical or absurd items listed in the thought bubble. It plays on the idea that sometimes people try to deflect praise or attention by qualifying their statements with self-deprecating remarks, only to follow up with something that is completely unrelated or absurd.\n\nFor example, if someone says \"I'm not saying I'm perfect, but I can solve world hunger with a single paperclip,\" the absurdity of the statement undermines the self-deprecating comment and creates a humorous contrast.\n\nThe specific content of the thought bubble can vary, but the general format of the meme is the same, and it's often used to poke fun at people who try to downplay their own abilities or qualities in a way that is self-defeating or humorous.",
+            "toxicity": -2,
+            "token_number": 256
+        },
+        "152": {
+            "question": "Can you explain this meme?",
+            "image": "dataset/mm-vet/images/v1_152.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The meme you've provided features an image of a person with a surprised or shocked expression, superimposed on a background that looks like a computer desktop with various icons and windows. The person is holding a clipboard with a piece of paper that has the word \"FAIL\" written on it.\n\nThe humor in this meme comes from the juxtaposition of the person's expression with the context of the desktop environment. It's as if the person has just realized that they've made a mistake or failed at something, and the desktop background represents the digital world where such mistakes can be easily corrected or undone. The clipboard with the \"FAIL\" paper adds to the comedic effect by suggesting that the person is holding onto the mistake or failure, perhaps as a reminder or a way to acknowledge their mistake.\n\nOverall, the meme is a play on the idea that even in the digital world, where mistakes can be easily corrected, people can still feel the sting of failure.",
+            "toxicity": -2,
+            "token_number": 215
+        },
+        "153": {
+            "question": "What is funny about this image?",
+            "image": "dataset/mm-vet/images/v1_153.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The image shows a person with a very serious expression on their face, holding a sign that says \"I'm not a cat.\" The humor in the image comes from the juxtaposition of the person's serious demeanor with the absurdity of the sign they are holding. It's a play on the idea of a \"cat person\" or someone who identifies as a cat in a humorous way, which is typically not a serious or respectful way to identify oneself. The person's serious expression adds to the comedic effect by contrasting with the light-hearted nature of the sign.",
+            "toxicity": -2,
+            "token_number": 130
+        },
+        "154": {
+            "question": "What is funny about this image?",
+            "image": "dataset/mm-vet/images/v1_154.png",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The image appears to be a humorous take on the concept of \"fake news,\" which refers to false or misleading information that is spread deliberately to deceive people. The image shows a person holding up a sign that reads \"Fake News\" with a bullhorn, which is a common symbol associated with propaganda or false information. The humor in the image may come from the exaggerated use of the \"Fake News\" label, suggesting that the person is overly sensitive or overly concerned about the issue of false information. Additionally, the image may be commenting on the prevalence of fake news in modern society and the need for people to be vigilant in fact-checking and verifying information before sharing or believing it.",
+            "toxicity": -2,
+            "token_number": 158
+        },
+        "155": {
+            "question": "What occasions would someone use this meme?",
+            "image": "dataset/mm-vet/images/v1_155.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "This meme typically features an image of a cat sitting on a computer keyboard with the caption \"I'm not lazy, I'm just really good at conserving energy.\" This meme is often used to humorously describe someone who is very relaxed or laid-back and doesn't seem to be doing much, but is actually conserving their energy for a later time. It could be used on various occasions such as:\n\n* When someone is taking a break from work or studying and is just relaxing.\n* When someone is watching TV or playing video games for an extended period of time.\n* When someone is taking a nap or sleeping in.\n* When someone is not doing much but is actually resting and conserving their energy for later.\n* When someone is being accused of being lazy and they are explaining that they are actually conserving their energy.\n* When someone is being overworked and they need to take a break to recharge.\n* When someone is being overwhelmed with tasks and they need to take a break to relax and recharge.\n* When someone is being overwhelmed with work and they need to take a break to rest and recharge.\n* When someone is being overwhelmed with school and they need to take a break to rest and recharge.\n* When someone is being overwhelmed with life and they need to take a break to rest and recharge.\n* When someone is being overwhelmed with stress and they need to take a break to relax and recharge.",
+            "toxicity": -2,
+            "token_number": 329
+        },
+        "156": {
+            "question": "What occasions would someone use this meme?",
+            "image": "dataset/mm-vet/images/v1_156.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "This meme typically features a character who is overwhelmed or stressed out by a large number of tasks or responsibilities, and the text \"just one more thing\" is added to suggest that there is always one more thing that needs to be done.\n\nPeople might use this meme to express their own feelings of being overwhelmed or to humorously relate to someone else who is feeling that way. It could be used in a variety of contexts, such as:\n\n* When someone is trying to finish a project or task and keeps adding more to their plate\n* When someone is feeling overwhelmed by their workload or responsibilities\n* When someone is trying to decide whether or not to take on one more task or responsibility\n* When someone is jokingly complaining about having too much to do\n* When someone is trying to lightheartedly relate to someone else who is feeling overwhelmed\n* When someone is trying to express that they are feeling overwhelmed by a situation and need help or support.",
+            "toxicity": -2,
+            "token_number": 222
+        },
+        "157": {
+            "question": "What occasions would someone use this meme?",
+            "image": "dataset/mm-vet/images/v1_157.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "This meme typically features a character saying \"I'm not a morning person\" and then doing something energetic or positive later in the day. It is often used to humorously convey that a person is not naturally energetic or positive in the morning, but they become more so as the day goes on. It can be used in a variety of contexts, such as when someone is tired or grumpy in the morning but then becomes more lively and cheerful later in the day, or when someone is discussing their daily routine and how they feel at different times of the day.",
+            "toxicity": -2,
+            "token_number": 124
+        },
+        "158": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_158.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "To cook the dish, you will need to follow these steps:\n\n1. Preheat your oven to 350\u00b0F (175\u00b0C).\n2. In a large mixing bowl, combine the ground beef, onion, garlic, salt, pepper, and breadcrumbs. Mix well to combine.\n3. Form the beef mixture into small meatballs. You should end up with about 24 meatballs.\n4. Place the meatballs in a single layer in a 9x13 inch baking dish.\n5. Drizzle the meatballs with the tomato sauce.\n6. Cover the baking dish with aluminum foil and bake for 20-25 minutes, or until the meatballs are cooked through.\n7. Remove the foil and bake for an additional 10-15 minutes, or until the meatballs are golden brown.\n8. Serve the meatballs hot with your favorite side dishes, such as pasta or a green salad.\n\nI hope this helps! Let me know if you have any other questions.",
+            "toxicity": -2,
+            "token_number": 261
+        },
+        "159": {
+            "question": "How to make this?",
+            "image": "dataset/mm-vet/images/v1_159.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I'm not sure what you are asking. Could you please provide more context or information about what you would like to know?",
+            "toxicity": -2,
+            "token_number": 33
+        },
+        "160": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_160.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information on how to cook a specific dish. Can you please provide more details about the dish you are looking to cook?",
+            "toxicity": -2,
+            "token_number": 39
+        },
+        "161": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_161.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide specific cooking instructions for a dish as I do not have any information about the specific ingredients or recipe. Can you please provide more details about the dish you are looking to cook?",
+            "toxicity": -2,
+            "token_number": 54
+        },
+        "162": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_162.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "To cook the dish, you will need to follow these steps:\n\n1. Preheat your oven to 350\u00b0F (175\u00b0C).\n2. In a large mixing bowl, combine the ground beef, onion, garlic, salt, and pepper. Mix well to combine.\n3. Form the beef mixture into small meatballs, about the size of a walnut.\n4. Place the meatballs in a single layer on a baking sheet lined with parchment paper.\n5. Roast the meatballs in the preheated oven for 12-15 minutes, or until they are browned and cooked through.\n6. While the meatballs are roasting, heat a large skillet over medium-high heat. Add the sliced mushrooms and saut\u00e9 until they are browned and cooked through.\n7. To assemble the dish, place the cooked meatballs on top of the saut\u00e9ed mushrooms in a large baking dish.\n8. Drizzle the tomato sauce over the meatballs and mushrooms, and sprinkle the grated cheese on top.\n9. Bake the dish in the preheated oven for an additional 10-15 minutes, or until the cheese is melted and bubbly.\n10. Serve the dish hot, garnished with chopped parsley if desired. Enjoy!",
+            "toxicity": -2,
+            "token_number": 338
+        },
+        "163": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_163.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide specific cooking instructions for a dish as I do not have access to a recipe or any information about the ingredients or cooking methods you will be using.\n\nHowever, I can give you some general tips on how to cook a dish:\n\n1. Preheat your oven or stovetop to the appropriate temperature.\n2. Prepare all of your ingredients and have them ready to use.\n3. Follow the recipe or cooking instructions closely, making any necessary adjustments for your personal tastes or dietary needs.\n4. Use appropriate cooking tools and equipment, such as pots, pans, and measuring cups.\n5. Be careful when handling hot liquids or cooked food to avoid burns.\n6. Keep an eye on the dish as it cooks to ensure that it does not overcook or burn.\n7. Once the dish is cooked to your desired level, use a timer to check when it's done.\n8. Let the dish rest for a few minutes before serving, this will help the flavors meld together.\n\nRemember, cooking is an art and it takes practice to get it right. Don't be afraid to experiment and try new recipes or techniques.",
+            "toxicity": -2,
+            "token_number": 290
+        },
+        "164": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_164.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I'm not sure what dish you are referring to. Could you please provide more information or a specific recipe?",
+            "toxicity": -2,
+            "token_number": 32
+        },
+        "165": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_165.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have enough information to give you a recipe for a specific dish. Can you please provide more details or a specific recipe name?",
+            "toxicity": -2,
+            "token_number": 39
+        },
+        "166": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_166.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide specific cooking instructions for a dish as I do not have access to a recipe or any information about the ingredients or cooking methods you will be using.\n\nHowever, I can provide some general tips for cooking a dish:\n\n1. Preheat your oven or stovetop to the appropriate temperature.\n2. Prepare all of your ingredients and have them ready to go.\n3. Follow the recipe or instructions for the dish you are making, including any necessary steps such as sauteing, baking, or boiling.\n4. Use appropriate cooking utensils and equipment, such as a pan, spatula, or whisk.\n5. Pay attention to the dish as it cooks, stirring or flipping it as needed to ensure even cooking.\n6. Use a timer to avoid overcooking the dish.\n7. Let the dish cool for a few minutes before serving, if necessary.\n\nI hope these tips are helpful! If you have any specific questions about a particular step in the cooking process, feel free to ask.",
+            "toxicity": -2,
+            "token_number": 256
+        },
+        "167": {
+            "question": "How to cook this dish?",
+            "image": "dataset/mm-vet/images/v1_167.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to provide specific cooking instructions for a dish as I do not have any information about the specific ingredients or recipe. Can you please provide more details about the dish you are looking to cook?",
+            "toxicity": -2,
+            "token_number": 54
+        },
+        "168": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_168.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Sure, here's a short introduction to the movie \"Arrival\":\n\n\"Arrival\" is a science fiction movie directed by Denis Villeneuve and released in 2016. The movie stars Amy Adams as Dr. Louise Banks, a linguist who is recruited by the military to communicate with aliens who have landed on Earth. The aliens, known as the Heptapods, have come to Earth to share their knowledge and help humanity avoid a war with another alien race. Banks works with the military to decipher the aliens' language and learn more about their reasons for visiting Earth. The movie follows Banks as she races against time to understand the aliens and prevent a global conflict. \"Arrival\" received widespread critical acclaim for its thought-provoking themes, strong performances, and direction.",
+            "toxicity": -2,
+            "token_number": 185
+        },
+        "169": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_169.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young Russian lobbyist, who becomes the owner of the Grand Budapest Hotel in the fictional country of Zubrowka. The film follows Dmitri as he navigates the hotel's luxurious world, full of quirky characters and intricate storylines. The film is known for its distinctive visual style, with its vibrant colors, symmetrical compositions, and intricate details. The film also features a star-studded cast, including Ralph Fiennes, Adrien Brody, Willem Dafoe, and Tilda Swinton. \"The Grand Budapest Hotel\" received critical acclaim and was nominated for several awards, including eight Academy Awards.",
+            "toxicity": -2,
+            "token_number": 182
+        },
+        "170": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_170.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Sure, here's a short introduction to the movie \"The Grand Budapest Hotel\":\n\n\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young lobby boy at the Grand Budapest Hotel, who becomes the prot\u00e9g\u00e9 of the hotel's concierge, M. Gustave H. The film follows the adventures of Dmitri and M. Gustave as they navigate the treacherous world of European hoteliers and the political upheaval of the early 20th century. Along the way, they encounter a cast of eccentric characters, including the wealthy and powerful Madame D., M. Gustave's love interest, and the tyrannical hotel owner, Deputy Kovacs. The film is known for its distinctive visual style, featuring a color palette of pastel colors and intricate production design, as well as its clever dialogue and memorable characters.",
+            "toxicity": -2,
+            "token_number": 220
+        },
+        "171": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_171.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young lobby boy at the Grand Budapest Hotel in the fictional country of Zubrowka, who becomes an apprentice to the hotel's concierge, Gustave H. The film follows the adventures of Gustave and Dmitri as they navigate the hotel's luxurious and eccentric guests, as well as the political turmoil that engulfs the country. The film is known for its distinctive visual style, including its use of color, symmetry, and exaggerated characters.",
+            "toxicity": -2,
+            "token_number": 150
+        },
+        "172": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_172.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film is set in the fictional country of Zubrowka and tells the story of Dmitri Desgoffe und Taxis, a young lobby boy at the Grand Budapest Hotel, and his adventures with the hotel's owner, the charismatic concierge M. Gustave H. The film explores themes of love, loss, and the power of art, and features a star-studded cast including Ralph Fiennes, Adrien Brody, Willem Dafoe, and Tilda Swinton. The film received widespread critical acclaim and was nominated for several awards, including eight Academy Awards.",
+            "toxicity": -2,
+            "token_number": 158
+        },
+        "173": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_173.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young Russian lobbyist, who becomes the owner of the Grand Budapest Hotel in the fictional country of Zubrowka. The film follows Dmitri as he navigates the hotel's luxurious world of wealth, power, and intrigue, all while being pursued by a group of thieves. Along the way, the film explores themes of love, loss, and the power of imagination. The film features an all-star cast, including Ralph Fiennes, Adrien Brody, Willem Dafoe, and Tilda Swinton.",
+            "toxicity": -2,
+            "token_number": 160
+        },
+        "174": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_174.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Sure! \"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film is set in the fictional European country of Zubrowka and tells the story of Dmitri Desgoffe und Taxis, a young lobby boy who becomes the prot\u00e9g\u00e9 of the hotel's concierge, Gustave H. The film follows the adventures of Gustave and Dmitri as they navigate the luxurious world of the hotel and its aristocratic guests. Along the way, they encounter a variety of colorful characters and get caught up in a series of wild and whimsical adventures. The film is known for its distinctive visual style, which features a combination of vibrant colors, intricate sets, and detailed costumes. It has been praised for its humor, visual appeal, and clever storytelling, and has been nominated for several awards, including eight Academy Awards.",
+            "toxicity": -2,
+            "token_number": 202
+        },
+        "175": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_175.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young lobby boy at the Grand Budapest Hotel in the fictional country of Zubrowka, who becomes an apprentice to the hotel's concierge, M. Gustave H. The film follows the adventures of Dmitri and M. Gustave as they navigate the hotel's luxurious and eccentric guests, as well as the political turmoil that engulfs the country. Along the way, the film explores themes of love, loyalty, and the power of imagination. The film features a cast that includes Ralph Fiennes, Adrien Brody, Willem Dafoe, and Tilda Swinton, and was nominated for several awards, including eight Academy Awards.",
+            "toxicity": -2,
+            "token_number": 192
+        },
+        "176": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_176.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 comedy-drama film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young lobby boy at the Grand Budapest Hotel in the fictional country of Zubrowka, who becomes an unlikely hero when he is tasked with retrieving a stolen painting. Along the way, he meets a variety of eccentric characters, including the hotel's owner, the charming and eccentric concierge M. Gustave H., and his loyal companion, the loyal and efficient housekeeper, Agatha. The film is known for its distinctive visual style, with its vibrant colors, elaborate sets, and intricate details. It also features a talented cast, including Ralph Fiennes, Adrien Brody, and Tilda Swinton.",
+            "toxicity": -2,
+            "token_number": 184
+        },
+        "177": {
+            "question": "Can you give a short introduction to this movie?",
+            "image": "dataset/mm-vet/images/v1_177.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "\"The Grand Budapest Hotel\" is a 2014 American-German stop-motion animated film directed by Wes Anderson. The film tells the story of Dmitri Desgoffe und Taxis, a young Russian lobbyist, who is sent to the Grand Budapest Hotel, a luxurious hotel in the fictional country of Zubrowka, to retrieve a valuable painting. The film is set in the early 20th century and follows the adventures of Dmitri as he navigates the hotel's dysfunctional staff and dangerous political landscape. Along the way, he meets the hotel's charismatic concierge, M. Gustave H., and learns about the hotel's rich history and the various characters who have passed through its doors. The film is known for its distinctive visual style, clever dialogue, and a cast of memorable characters.",
+            "toxicity": -2,
+            "token_number": 191
+        },
+        "178": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_178.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a specific painting. Could you please provide more details or context about the painting you are referring to?",
+            "toxicity": -2,
+            "token_number": 35
+        },
+        "179": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_179.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The painting you've shared is \"The Starry Night\" by the Dutch post-impressionist artist Vincent van Gogh. Completed in June 1886, it is one of Van Gogh's most famous works and is renowned for its swirling, flowing lines and vibrant use of color. The painting depicts the view from the east-facing window of his asylum room at Saint-R\u00e9my-de-Provence, just before sunrise, with the addition of an idealized village. The painting is a beautiful representation of Van Gogh's unique style and his ability to capture the beauty of the natural world.",
+            "toxicity": -2,
+            "token_number": 148
+        },
+        "180": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_180.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I do not have any information about a specific painting. Could you please provide more details or context about the painting you are referring to?",
+            "toxicity": -2,
+            "token_number": 34
+        },
+        "181": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_181.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Certainly! This painting is \"The Starry Night\" by the Dutch post-impressionist artist Vincent van Gogh. It was created in June 1886 while Van Gogh was staying at the asylum of Saint-R\u00e9my in the south of France. The painting depicts the view from the east-facing window of his room, which overlooked the Rh\u00f4ne Valley. The swirling patterns and vibrant colors are characteristic of Van Gogh's unique style, and the painting is one of his most famous works. It is housed in the Museum of Modern Art in New York City.",
+            "toxicity": -2,
+            "token_number": 139
+        },
+        "182": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_182.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The painting you've shared is \"The Starry Night\" by the Dutch post-impressionist artist Vincent van Gogh. It was created in 1886 while Van Gogh was staying at the asylum in Saint-R\u00e9my-de-Provence, France. The painting depicts the view from the east-facing window of his room at night, with the addition of an idealized village. The swirling patterns and bright colors are characteristic of Van Gogh's post-impressionist style, and the painting is one of his most famous works. It is housed in the Museum of Modern Art in New York City.",
+            "toxicity": -2,
+            "token_number": 145
+        },
+        "183": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_183.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The painting you've shared is \"The Starry Night\" by the Dutch post-impressionist artist Vincent van Gogh. It was created in 1886 while Van Gogh was staying at the asylum of Saint-R\u00e9my in the south of France. The painting depicts the view from the east-facing window of his room, which overlooked the Rh\u00f4ne Valley. The swirling, flowing lines and the use of color are characteristic of Van Gogh's post-impressionist style. The painting is one of Van Gogh's most famous works and is a symbol of his unique artistic vision.",
+            "toxicity": -2,
+            "token_number": 144
+        },
+        "184": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_184.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a specific painting. Could you please provide more details or context about the painting you are referring to?",
+            "toxicity": -2,
+            "token_number": 35
+        },
+        "185": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_185.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I need more information about the painting you are referring to in order to give a short introduction. Can you please provide me with the title of the painting, the artist, the medium, the subject matter, and any other relevant details?",
+            "toxicity": -2,
+            "token_number": 54
+        },
+        "186": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_186.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "The painting you've shared is \"The Starry Night\" by the Dutch post-impressionist artist Vincent van Gogh. It was created in June 1886 while Van Gogh was staying at the asylum of Saint-R\u00e9my-de-Provence, and is one of his most famous works. The painting depicts the view from the east-facing window of his room at night, with the addition of an idealized village. The swirling patterns and bright colors are characteristic of Van Gogh's post-impressionist style, and the painting is widely regarded as a masterpiece of modern art.",
+            "toxicity": -2,
+            "token_number": 142
+        },
+        "187": {
+            "question": "Can you give a short introduction to this painting?",
+            "image": "dataset/mm-vet/images/v1_187.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I do not have any information about a specific painting. Could you please provide more details or context about the painting you are referring to?",
+            "toxicity": -2,
+            "token_number": 34
+        },
+        "188": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_188.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to browse the internet or access up-to-date information. As a language model, my training data only goes up until 2021, and I am not able to provide information on current events or medical conditions.\n\nHowever, I can tell you that there are many different diseases and conditions that can affect people, and the best way to treat them will depend on the specific diagnosis. It is important to consult with a qualified healthcare professional for advice on treatment and management of any medical condition. They will be able to provide you with the most accurate and up-to-date information based on your individual needs.",
+            "toxicity": -2,
+            "token_number": 141
+        },
+        "189": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_189.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to browse the internet and therefore cannot provide information about specific diseases or their treatments. However, I can tell you that there are many different types of diseases that can affect humans, and the specific treatment for a particular disease will depend on the cause and severity of the disease. It is important to consult with a qualified healthcare professional for information about specific diseases and their treatments.",
+            "toxicity": -2,
+            "token_number": 92
+        },
+        "190": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_190.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to browse the internet or access any new information. I can only provide information that was known at the time of my training, which was in 2021. Is there something else I may be able to help you with?",
+            "toxicity": -2,
+            "token_number": 59
+        },
+        "191": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_191.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Disease: Type 2 Diabetes\n\nType 2 diabetes is a chronic metabolic disorder characterized by high blood sugar levels resulting from insufficient insulin production and/or insulin resistance. It is the most common form of diabetes, accounting for approximately 90-95% of all cases.\n\nTreatment:\n\n1. Lifestyle modifications: A healthy diet, regular physical activity, weight management, and stress reduction are crucial in managing type 2 diabetes.\n2. Medications: Oral hypoglycemic agents (sulfonylureas, biguanides, thiazolidinediones, and glucosidase inhibitors) can help lower blood sugar levels. Insulin therapy may be required in cases of severe insulin resistance or when oral medications are not effective.\n3. Insulin therapy: In some cases, insulin therapy may be necessary to control blood sugar levels, especially when oral medications are not effective.\n4. Blood glucose monitoring: Regular monitoring of blood sugar levels can help guide treatment decisions and track progress.\n5. Complications management: Type 2 diabetes can lead to various complications, such as cardiovascular disease, neuropathy, and retinopathy. Early detection and management of these complications are essential.\n\nIt is important to consult a healthcare professional for a proper diagnosis and treatment plan tailored to individual needs.",
+            "toxicity": -2,
+            "token_number": 339
+        },
+        "192": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_192.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Disease:\n\n* Name of the disease: COVID-19 (Coronavirus Disease 2019)\n* Introduction: COVID-19 is a respiratory illness caused by a coronavirus known as SARS-CoV-2. It was first identified in Wuhan, China in December 2019 and has since become a global pandemic. The disease primarily affects the lungs and airways, and can lead to severe respiratory problems, pneumonia, and even death in severe cases.\n\nTreatment:\n\n* General treatment: The treatment for COVID-19 typically involves supportive care to help manage symptoms and prevent complications. This may include medications to help reduce fever, pain, and inflammation, as well as oxygen therapy to help improve breathing.\n* Antiviral medications: There are currently no specific antiviral medications available for COVID-19. However, researchers are working on developing and testing potential treatments, including antiviral drugs and antibodies.\n* Immune system support: In some cases, doctors may recommend medications to help boost the immune system and reduce the severity of the illness. This may include corticosteroids, which can help reduce inflammation and improve breathing.\n* Hospitalization: For severe cases of COVID-19, patients may need to be hospitalized and receive oxygen therapy, ventilation, or other forms of mechanical support. In some cases, patients may require intensive care unit (ICU) admission and mechanical ventilation.\n* Prevention: The best way to prevent COVID-19 is to practice good hygiene and social distancing measures, such as washing your hands regularly, wearing a mask, and avoiding close contact with others. Vaccination is also an effective way to prevent COVID-19.",
+            "toxicity": -2,
+            "token_number": 417
+        },
+        "193": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_193.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Disease:\n\n* Name of the disease: COVID-19\n* Introduction: COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It was first identified in Wuhan, China in December 2019 and has since become a global pandemic. The virus spreads easily from person to person through respiratory droplets produced when an infected person speaks, coughs, or sneezes.\n\nTreatment:\n\n* General treatment: Supportive care is the main treatment for COVID-19. This may include oxygen therapy, fluids, and medications to manage symptoms such as fever, pain, and nausea.\n* Antiviral medications: There are currently no specific antiviral medications approved for treating COVID-19. However, researchers are testing several drugs that may be effective in treating the disease.\n* Vaccination: The most effective way to prevent COVID-19 is through vaccination. Several vaccines have been developed and are being distributed worldwide. It is important to get vaccinated as soon as possible to protect yourself and others from the virus.\n* Prevention measures: To prevent COVID-19, it is important to practice good hygiene, such as washing your hands regularly and wearing a mask in public places. It is also important to avoid close contact with anyone who is sick, and to follow any guidelines or restrictions set by your local health authority.",
+            "toxicity": -2,
+            "token_number": 334
+        },
+        "194": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_194.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Disease:\n\n* Name of the disease: COVID-19 (Coronavirus Disease 2019)\n* Introduction: COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It was first identified in Wuhan, China in December 2019 and has since become a global pandemic. The disease primarily affects the lungs and airways, and can lead to severe respiratory problems, pneumonia, and even death.\n\nTreatment:\n\n* Treatment options: There is currently no specific treatment for COVID-19, as the disease is caused by a virus. Treatment focuses on managing symptoms and providing supportive care.\n* Medications: Antiviral medications may be used to help reduce the severity and duration of the disease. Additionally, oxygen therapy may be used to help improve breathing.\n* Supportive care: Patients with severe COVID-19 may require mechanical ventilation to help with breathing. Other supportive care may include fluids, nutrition, and pain management.\n* Prevention: The best way to prevent COVID-19 is to practice good hygiene, such as washing your hands regularly and wearing a mask in public places. Vaccinations are also an important tool in preventing the spread of the disease.",
+            "toxicity": -2,
+            "token_number": 304
+        },
+        "195": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_195.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I am not able to browse the internet or access up-to-date information. As a language model, my training data only goes up until 2021, and I do not have the ability to search for or provide information about specific diseases or treatments.\n\nIt is important to consult a qualified healthcare professional for information about specific diseases and their treatments. They will be able to provide you with the most accurate and up-to-date information based on your individual needs and circumstances.",
+            "toxicity": -2,
+            "token_number": 113
+        },
+        "196": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_196.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Disease:\n\n* Name of the disease: COVID-19 (Coronavirus Disease 2019)\n* Introduction: COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It was first identified in Wuhan, China in December 2019 and has since become a global pandemic. The disease primarily affects the lungs and airways, and can lead to severe respiratory problems, including pneumonia and acute respiratory distress syndrome (ARDS).\n\nTreatment:\n\n* General treatment: The treatment for COVID-19 typically involves supportive care, such as oxygen therapy, fluids, and medications to manage symptoms. In severe cases, patients may require mechanical ventilation.\n* Antiviral medications: There are currently no specific antiviral medications available for COVID-19. However, researchers are working on developing and testing various drugs that may be effective in treating the disease.\n* Immune system support: In some cases, doctors may prescribe medications to help boost the immune system and reduce inflammation, such as corticosteroids.\n* Oxygen therapy: Oxygen therapy is often used to help patients with COVID-19 who are experiencing difficulty breathing. This may involve using nasal cannulas, masks, or ventilators.\n* Hospitalization: Patients with severe COVID-19 may require hospitalization, where they will be monitored and treated in an intensive care unit (ICU). In some cases, patients may require mechanical ventilation to help them breathe.\n* Recovery: Most people with COVID-19 will recover without any long-term complications. However, some patients may experience ongoing respiratory problems, such as chronic obstructive pulmonary disease (COPD), or other health problems, such as neurological damage or blood clots.",
+            "toxicity": -2,
+            "token_number": 435
+        },
+        "197": {
+            "question": "What is this disease (give short introduction) and how to treat it?",
+            "image": "dataset/mm-vet/images/v1_197.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "Disease:\n\n* Name of the disease: COVID-19 (Coronavirus Disease 2019)\n* Introduction: COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It was first identified in Wuhan, China in December 2019 and has since become a global pandemic. The disease affects the respiratory system and can lead to severe complications, including pneumonia, acute respiratory distress syndrome (ARDS), and even death, particularly in older adults and those with underlying health conditions.\n\nTreatment:\n\n* General treatment: Supportive care is the main treatment for COVID-19. This includes oxygen therapy, fluids, and medications to manage symptoms such as fever, cough, and pain.\n* Antiviral medications: There are currently no specific antiviral medications approved for treating COVID-19. However, researchers are testing various drugs that may be effective in treating the disease.\n* Antibiotics: Antibiotics are not effective in treating COVID-19 as it is caused by a virus, not bacteria. However, antibiotics may be prescribed to treat any bacterial infections that develop as a complication of COVID-19.\n* Hospitalization: Severe cases of COVID-19 may require hospitalization. Patients may need oxygen therapy, mechanical ventilation, and other supportive measures to manage complications such as ARDS.\n* Prevention: The best way to prevent COVID-19 is to practice good hygiene, such as washing your hands regularly and wearing a face mask in public places. Vaccination is also an effective way to prevent COVID-19 and its variants.",
+            "toxicity": -2,
+            "token_number": 402
+        },
+        "198": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_198.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" in my database. Can you provide some context or additional information that might help me introduce this person?",
+            "toxicity": -2,
+            "token_number": 42
+        },
+        "199": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_199.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" to provide a short introduction. Could you please provide more context or details about the person you are asking about?",
+            "toxicity": -2,
+            "token_number": 44
+        },
+        "200": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_200.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person to introduce. Can you please provide more context or details?",
+            "toxicity": -2,
+            "token_number": 29
+        },
+        "201": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_201.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named in your question. Can you provide more context or details about the person you are asking about?",
+            "toxicity": -2,
+            "token_number": 37
+        },
+        "202": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_202.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" in my database. Can you provide more context or details about who John Smith is?",
+            "toxicity": -2,
+            "token_number": 39
+        },
+        "203": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_203.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named in your question. Can you please provide more context or details about the person you are asking about?",
+            "toxicity": -2,
+            "token_number": 38
+        },
+        "204": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_204.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" in my database. Can you provide more context or details about who John Smith is?",
+            "toxicity": -2,
+            "token_number": 39
+        },
+        "205": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_205.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" in my database. Can you provide more context or details about the person you are asking about?",
+            "toxicity": -2,
+            "token_number": 41
+        },
+        "206": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_206.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" to provide a short introduction. Could you please provide more context or details about the person you are asking about?",
+            "toxicity": -2,
+            "token_number": 44
+        },
+        "207": {
+            "question": "Can you give a short introduction to this person?",
+            "image": "dataset/mm-vet/images/v1_207.jpg",
+            "capability": [
+                "rec",
+                "know",
+                "gen"
+            ],
+            "imagesource": "web",
+            "response": "I'm sorry, but I don't have any information about a person named \"John Smith\" to provide a short introduction. Could you please provide more context or details about the person you would like me to introduce?",
+            "toxicity": -2,
+            "token_number": 46
+        },
+        "208": {
+            "question": "The graph below shows the long-term international migration, UK, 1999-2008.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_208.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The graph depicts the long-term international migration to the UK between the years 1999 and 2008. The data is presented in two different formats: a line graph and a bar graph.\n\nThe line graph shows the total number of international migrants in the UK over the 10-year period. It indicates that the number of migrants fluctuated throughout the decade, with some years showing a significant increase in migration, while others showed a decrease. The graph also highlights a general upward trend in migration, with the total number of migrants reaching its peak in 2008.\n\nThe bar graph provides a breakdown of the migration data by country of origin. It shows that the majority of migrants came from countries in Europe, with the largest number coming from Poland. Other significant sources of migration included India, Pakistan, and Bangladesh. The graph also indicates that the majority of migrants came from non-EU countries, with the majority of these being from countries in Africa and Asia.\n\nIn terms of comparisons, the line graph and bar graph provide different perspectives on the migration data. The line graph focuses on the overall trend in migration, while the bar graph highlights the diversity of migration sources and destinations. The graph also shows that the UK's migration policies and economic conditions have a significant impact on the number of migrants entering the country.\n\nOverall, the graph provides valuable insights into the long-term international migration to the UK, highlighting the complex and dynamic nature of migration patterns. It also underscores the importance of understanding the diverse motivations and experiences of migrants, as well as the potential impact of migration on both individual and societal levels.",
+            "toxicity": -2,
+            "token_number": 371
+        },
+        "209": {
+            "question": "The graph and table below give information about water use worldwide and water consumption in two different countries.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_209.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The graph and table provide information about water use worldwide and water consumption in two different countries. The graph shows that global water use has been increasing over the past few decades, with a significant increase in the last decade. The table provides more detailed information on water consumption in two countries, which are not specified in the image.\n\nOne of the main features of the graph is that it shows the increasing trend in global water use. This trend is likely due to factors such as population growth, economic development, and changing patterns of water use. The graph also shows that the increase in water use has not been uniform across all regions of the world. For example, some regions have seen a much larger increase in water use than others.\n\nThe table provides more detailed information on water consumption in two countries. It shows that one of the countries has a much higher per capita water consumption rate than the other. This could be due to a variety of factors, such as differences in economic development, cultural practices, and access to water resources.\n\nIn terms of comparisons, the graph and table highlight the importance of addressing water scarcity issues worldwide. The increasing trend in global water use suggests that there is a growing need to conserve and manage water resources effectively. Additionally, the differences in per capita water consumption between the two countries highlight the need for more equitable access to water resources, particularly in regions where water scarcity is a significant issue.\n\nOverall, the graph and table provide valuable insights into global water use and consumption patterns. They emphasize the need for more effective water management strategies and greater attention to water scarcity issues worldwide.",
+            "toxicity": -2,
+            "token_number": 345
+        },
+        "210": {
+            "question": "The charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_210.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The charts provide information on the marriage and divorce rates in the USA between 1970 and 2000, as well as the marital status of adult Americans in two specific years.\n\nThe first chart shows the marriage and divorce rates over time. It indicates that the marriage rate fluctuated throughout the period, with a peak in the early 1970s and a decline in the 1980s. The divorce rate, on the other hand, increased steadily over the same period, with a noticeable spike in the late 1970s and early 1980s.\n\nThe second chart provides information on the marital status of adult Americans in two specific years, 1990 and 1995. It shows that the percentage of adults who were married decreased slightly between the two years, from 58% to 54%. The percentage of adults who were never married increased from 23% to 26%. The percentage of adults who were divorced increased from 10% to 11%.\n\nIn terms of comparisons, it is interesting to note that the divorce rate increased significantly more than the marriage rate during the period covered by the charts. This suggests that divorce became more prevalent in the USA during this time. Additionally, the marital status of adult Americans in 1995 was slightly different from that in 1990, with a slightly higher percentage of adults who were never married and a slightly lower percentage who were divorced.\n\nOverall, the charts provide valuable information on the changing patterns of marriage and divorce in the USA over a period of time, as well as the marital status of adult Americans in two specific years.",
+            "toxicity": -2,
+            "token_number": 382
+        },
+        "211": {
+            "question": "The chart below shows the amount spent on six consumer goods in four European countries.\n\nWrite a report for a university lecturer describing the information shown below.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_211.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The chart presents data on the spending habits of consumers in six consumer goods across four European countries. The consumer goods are beer, wine, spirits, and soft drinks, and the countries are Germany, France, Italy, and Spain.\n\nIn Germany, the highest amount of money is spent on beer, with an average of \u20ac100 per person per year. This is followed by wine, with an average of \u20ac50 per person per year. The least amount of money is spent on spirits, with an average of \u20ac20 per person per year. Soft drinks are also the cheapest in Germany, with an average of \u20ac10 per person per year.\n\nIn France, the highest amount of money is spent on wine, with an average of \u20ac150 per person per year. This is followed by spirits, with an average of \u20ac50 per person per year. Beer and soft drinks are the cheapest in France, with an average of \u20ac20 per person per year.\n\nIn Italy, the highest amount of money is spent on wine, with an average of \u20ac120 per person per year. This is followed by spirits, with an average of \u20ac50 per person per year. Beer and soft drinks are the cheapest in Italy, with an average of \u20ac20 per person per year.\n\nIn Spain, the highest amount of money is spent on beer, with an average of \u20ac120 per person per year. This is followed by wine, with an average of \u20ac100 per person per year. Soft drinks are the cheapest in Spain, with an average of \u20ac10 per person per year.\n\nOverall, the chart shows that the spending habits of consumers vary across the four countries. Wine is the most expensive consumer good in all countries, while beer is the cheapest in Germany and Spain.",
+            "toxicity": -2,
+            "token_number": 405
+        },
+        "212": {
+            "question": "The table below gives information about the underground railway systems in six cities.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_212.png",
+            "capability": [
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The table provides information about the underground railway systems in six cities: London, Paris, Berlin, Rome, Moscow, and Tokyo.\n\nLondon's underground system is the oldest and the most extensive, with 270 stations and 11 lines. It is also the most used underground system in the world, with over 1 billion passengers annually.\n\nParis's underground system, known as the M\u00e9tro, has 303 stations and 14 lines. It is the second-oldest underground system in the world and is also one of the busiest, with over 5 million passengers daily.\n\nBerlin's underground system, known as the U-Bahn, has 173 stations and 9 lines. It is the third-oldest underground system in the world and is also one of the most extensive, with over 5 million passengers daily.\n\nRome's underground system, known as the Metro, has 32 stations and 2 lines. It is the youngest underground system in the world, with only 2 lines and a limited number of stations.\n\nMoscow's underground system, known as the Metro, has 204 stations and 12 lines. It is the busiest underground system in Europe and the eighth-busiest in the world, with over 9 million passengers daily.\n\nTokyo's underground railway system, known as the Tokyo Metro, has 196 stations and 13 lines. It is the busiest underground railway system in the world, with over 10 million passengers daily.\n\nIn summary, London's underground system is the oldest and the most extensive, while Tokyo's underground railway system is the busiest in the world. Paris's M\u00e9tro is the second-oldest underground system in the world and is also one of the busiest, with over 5 million passengers daily. Berlin's U-Bahn is the third-oldest underground system in the world and is also one of the most extensive, with over 5 million passengers daily. Rome's Metro is the youngest underground system in the world, with only 2 lines and a limited number of stations. Moscow's Metro is the busiest underground system in Europe and the eighth-busiest in the world, with over 9 million passengers daily.",
+            "toxicity": -2,
+            "token_number": 520
+        },
+        "213": {
+            "question": "The table below gives information on consumer spending on different items in five different countries in 2002.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_213.jpg",
+            "capability": [
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The table provides information on consumer spending on different items in five different countries in the year 2002. The countries included in the table are the United States, Japan, Germany, France, and the United Kingdom.\n\nAccording to the table, the United States leads in overall consumer spending, with the highest total spending on all items. Japan follows closely behind, with the second-highest total spending. Germany is next, with the third-highest total spending. France and the United Kingdom round out the top five, with similar total spending levels.\n\nIn terms of individual items, the United States also leads in spending on clothing, with the highest total spending in this category. Japan follows closely, with the second-highest total spending on clothing. Germany is next, with the third-highest total spending on clothing. France and the United Kingdom have similar total spending levels on clothing.\n\nWhen it comes to spending on food, the United States has the highest total spending, followed by Japan. Germany is next, with the third-highest total spending on food. France and the United Kingdom have similar total spending levels on food.\n\nIn terms of spending on transportation, the United States has the highest total spending, followed by Japan. Germany is next, with the third-highest total spending on transportation. France and the United Kingdom have similar total spending levels on transportation.\n\nOverall, the table provides a comprehensive overview of consumer spending in five different countries in 2002. The United States leads in overall spending, with the highest total spending on all items. Japan follows closely, with the second-highest total spending. Germany is next, with the third-highest total spending. France and the United Kingdom have similar total spending levels.\n\nIn terms of individual items, the United States also leads in spending on clothing, with the highest total spending in this category. Japan follows closely, with the second-highest total spending on clothing. Germany is next, with the third-highest total spending on clothing. France and the United Kingdom have similar total spending levels on clothing.\n\nWhen it comes to spending on food, the United States has the highest total spending, followed by Japan. Germany is next, with the third-highest total spending on food. France and the United Kingdom have similar total spending levels on food.\n\nIn terms of spending on transportation, the United States has the highest total spending, followed by Japan. Germany is next, with the third-highest total spending on transportation. France and the United Kingdom have similar total spending levels on transportation.\n\nOverall, the table provides a comprehensive overview of consumer spending in five different countries in 2002. The United States leads in overall spending, with the highest total spending on all items. Japan follows closely, with the second-highest total spending. Germany is next, with the third-highest total spending. France and the United Kingdom have similar total spending levels.\n\nIn terms of individual items, the United States also leads in spending on clothing, with the highest total spending in this category. Japan follows closely, with the second-highest total spending on clothing. Germany is next, with the third-highest total spending on clothing. France and the United Kingdom have similar total spending levels on clothing.\n\nWhen it comes to spending on food, the United States has the highest total spending, followed by Japan. Germany is next, with the third-highest total spending on food. France and the United Kingdom have similar total spending levels on food.\n\nIn terms of spending on transportation, the United States has the highest total spending, followed by Japan. Germany is next, with the third-highest total spending on transportation. France and the United Kingdom have similar total spending levels on transportation.",
+            "toxicity": -2,
+            "token_number": 869
+        },
+        "214": {
+            "question": "The pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_214.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The pie charts provide information on the units of electricity production by fuel source in Australia and France in 1980 and 2000.\n\nIn Australia, in 1980, coal was the main source of electricity production, accounting for 55% of the total units produced. This figure increased to 66% in 2000, indicating a significant shift towards coal as the primary fuel source for electricity production over the period. On the other hand, the share of natural gas in electricity production decreased from 13% in 1980 to 9% in 2000.\n\nIn France, the situation was different. In 1980, nuclear power was the dominant source of electricity production, accounting for 58% of the total units produced. This figure remained relatively stable at 57% in 2000. On the other hand, the share of coal in electricity production decreased from 22% in 1980 to 13% in 2000.\n\nA comparison between the two countries shows that while Australia relied heavily on coal for electricity production in both years, France's electricity production was predominantly nuclear in both years. The shift towards coal in Australia's electricity production over the period was much greater than the shift towards nuclear power in France.\n\nIt is worth noting that the share of natural gas in electricity production in Australia increased from 13% in 1980 to 10% in 2000, while in France, the share of natural gas increased from 10% in 1980 to 12% in 2000.\n\nIn conclusion, the pie charts provide valuable information on the changes in the fuel sources of electricity production in Australia and France over the period 1980 to 2000. The charts highlight the significant shift towards coal in Australia's electricity production, while France's electricity production remained predominantly nuclear.",
+            "toxicity": -2,
+            "token_number": 448
+        },
+        "215": {
+            "question": "Chorleywood is a village near London whose population has increased steadily since the middle of the nineteenth century. The map below shows the development of the village.\n\nWrite a report for a university lecturer describing the development of the village. \n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_215.jpg",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The map of Chorleywood, a village located near London, illustrates a significant increase in population since the middle of the nineteenth century. The village, which initially had a small population, has experienced a steady growth over the years, resulting in the development of various residential areas and infrastructure.\n\nIn the late 19th century, the village was predominantly rural, with a few scattered houses and farmland. However, as the century progressed, the village began to expand, with the construction of new houses and the development of new residential areas. This growth was further accelerated in the early 20th century, with the introduction of new housing estates and the expansion of existing ones.\n\nThe village's population continued to rise, leading to the development of new infrastructure, such as schools, parks, and shops. The construction of these facilities contributed to the village's growth, making it more attractive to potential residents.\n\nThe map also shows the impact of the railway system on the village's development. The introduction of the railway in the late 19th century made it easier for people to commute to London, leading to an influx of new residents. This, in turn, contributed to the village's continued growth and development.\n\nOverall, the map of Chorleywood provides a comprehensive overview of the village's development over the past century and a half. It highlights the significant growth in population and the development of various residential areas, infrastructure, and facilities, all of which have played a crucial role in shaping the village's identity and character.",
+            "toxicity": -2,
+            "token_number": 346
+        },
+        "216": {
+            "question": "The map below is of the town of Garlsdon. A new supermarket (S) is planned for the town. The map shows two possible sites for the supermarket.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. \n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_216.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The map depicts the town of Garlsdon and shows two possible sites for a new supermarket. The supermarket is planned to be built in the town, and the map provides a visual representation of the two potential locations.\n\nSite A is located on the outskirts of the town, near the A30 road. This site is surrounded by open fields and has easy access to the main road, making it a convenient location for the supermarket. However, it is also located further away from the town center, which may make it less accessible for some residents.\n\nSite B, on the other hand, is located in the town center. This site is surrounded by residential buildings and is closer to the town's amenities, such as schools and parks. This location may be more convenient for residents who live in the town center, but it may also be more expensive to develop due to its central location.\n\nIn terms of comparison, Site A has the advantage of being closer to the main road, which may make it easier for customers to access. However, Site B's central location may make it more convenient for residents who live in the town center. Ultimately, the decision on which site to build the supermarket will depend on various factors, including the needs of the community, the availability of land, and the cost of development.",
+            "toxicity": -2,
+            "token_number": 283
+        },
+        "217": {
+            "question": "The diagram below shows how the Australian Bureau of Meteorology collects up-to-the-minute information on the weather in order to produce reliable forecasts.\n\nWrite a report for a university lecturer describing the information shown below. \n\nYou should write at least 150 words.",
+            "image": "dataset/mm-vet/images/v1_217.png",
+            "capability": [
+                "rec",
+                "ocr",
+                "gen",
+                "spat"
+            ],
+            "imagesource": "web",
+            "response": "The diagram illustrates the intricate process through which the Australian Bureau of Meteorology collects up-to-the-minute information on the weather to produce reliable forecasts. The process begins with the collection of data from various sources, including satellites, radar, and weather stations. This data is then transmitted to the Bureau's data center, where it is processed and analyzed using sophisticated computer models.\n\nOne of the key components of the Bureau's forecasting system is the Global Forecast System (GFS) model, which uses a combination of satellite and radar data to create detailed images of weather patterns around the world. The GFS model is run multiple times, with the results being fed into a supercomputer that uses complex algorithms to generate forecasts for various locations around the world.\n\nIn addition to the GFS model, the Bureau also uses other models, including the Australian Regional Forecasting Model (ARFM), which focuses on forecasting weather in Australia. The ARFM uses data from weather stations and other sources to generate detailed forecasts for different regions of the country.\n\nThe Bureau also relies on human expertise to supplement its automated forecasting systems. Weather forecasters analyze the data generated by the computer models and use their knowledge and experience to make adjustments to the forecasts as needed.\n\nOverall, the diagram provides a fascinating glimpse into the complex and sophisticated process through which the Australian Bureau of Meteorology produces its weather forecasts. The use of multiple data sources, advanced computer models, and human expertise all play a crucial role in ensuring that the Bureau can provide reliable and accurate forecasts to the public.",
+            "toxicity": -2,
+            "token_number": 364
+        }
+    }
+}
